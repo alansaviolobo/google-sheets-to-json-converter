@@ -60,12 +60,12 @@
       "properties": {
         "Id": 3,
         "Station": "Curchorem FS",
-        "Station_1": "Fire Station Curchorem",
-        "Name": "Shri. Damodar Zambaulikar",
-        "Mobile": 7391047146,
-        "Mobile2": 9763717049,
-        "Landline": "2650306 2650301/101",
-        "Email": "cur-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -100,12 +100,12 @@
       "properties": {
         "Id": 5,
         "Station": "Kundaim FS",
-        "Station_1": "Fire Station Kundaim",
-        "Name": "Shri. Sushil Morajkar",
-        "Mobile": 7391047156,
-        "Mobile2": 9763717059,
-        "Landline": 2395455,
-        "Email": "kfs-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -180,12 +180,12 @@
       "properties": {
         "Id": 9,
         "Station": "Panaji FS",
-        "Station_1": "Fire Station Panaji",
-        "Name": " Shri. Rupesh Sawant",
-        "Mobile": 8308846747,
-        "Mobile2": 7391047132,
-        "Landline": "0832-2485400",
-        "Email": "pnj-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -220,12 +220,12 @@
       "properties": {
         "Id": 11,
         "Station": "Pilerne FS",
-        "Station_1": "Fire Station Pilerne",
-        "Name": "Shri. D. G. Pednekar",
-        "Mobile": 7391047141,
-        "Mobile2": 9420596274,
-        "Landline": "2407100 / 2407101",
-        "Email": "pil-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
