@@ -1,0 +1,16 @@
+{
+  "name": "google-sheets-to-json-converter",
+  "version": "1.0.0",
+  "description": "Convert various google sheets into geojson files.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "follow-redirects": "^1.15.11",
+    "node-fetch": "^3.3.2",
+    "papaparse": "^5.5.3",
+    "requests": "^0.3.0"
+  }
+}
