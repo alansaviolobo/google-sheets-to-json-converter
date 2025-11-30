@@ -37,7 +37,7 @@ jobs:
       - name: Commit and push changes
         run: |
           if git status -s | grep -q "data/"; then
-            git add -f data/.
+            git add data/.
             git commit -m "Refresh GoogleSheets data"
             git push
           else
