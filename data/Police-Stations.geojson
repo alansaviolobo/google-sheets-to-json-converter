@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Old Goa",
+        "Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in"
       }
     },
     {
@@ -188,11 +188,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Bicholim",
+        "Name": "Vijay Rane Sardesai",
+        "Mobile": 7875756033,
+        "Contact No": "0832-2362233",
+        "Email": "pibicholim@goapolice.gov.in"
       }
     },
     {
@@ -205,11 +205,11 @@
         ]
       },
       "properties": {
-        "Station": "Valpoi",
-        "Name": "Videsh P. Shirdokar",
-        "Mobile": 7875756034,
-        "Contact No": "0832-2374255",
-        "Email": "pivalpoi@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -219,23 +219,6 @@
         "coordinates": [
           73.956799,
           15.274557
-        ]
-      },
-      "properties": {
-        "Station": "Margao Town",
-        "Name": "Suraj G. Samant",
-        "Mobile": 7875756039,
-        "Contact No": "0832-2705095",
-        "Email": "pimargao@goapolice.gov.in"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.974486,
-          15.307712
         ]
       },
       "properties": {
@@ -251,16 +234,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.974486,
+          15.307712
+        ]
+      },
+      "properties": {
+        "Station": "Maina Curtorim",
+        "Name": "Arun Dessai",
+        "Mobile": 7875756042,
+        "Contact No": "0832-2991307",
+        "Email": "pi-mainacurtorim@goapolice.gov.in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.973551,
           15.295885
         ]
       },
       "properties": {
-        "Station": "Fatorda",
-        "Name": "Nathan De Almeida",
-        "Mobile": 7875756181,
-        "Contact No": "0832-2741000",
-        "Email": "pi-fatorda@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -290,11 +290,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Cuncolim",
+        "Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in"
       }
     },
     {
@@ -392,11 +392,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Verna",
+        "Name": "Anand Shirodkar",
+        "Mobile": 7875756051,
+        "Contact No": "0832-2782325",
+        "Email": "pi-verna@goapolice.gov.in"
       }
     },
     {
@@ -409,11 +409,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco Railway",
-        "Name": "Amarnath Passi",
-        "Mobile": 7875756052,
-        "Contact No": "0832-2512488",
-        "Email": "pivascorailway@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -426,11 +426,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Mormagoa",
+        "Name": "Sherif Josaphat Jaques",
+        "Mobile": 7875756050,
+        "Contact No": "0832-2520740",
+        "Email": "pi-mormugao@goapolice.gov.in"
       }
     },
     {
