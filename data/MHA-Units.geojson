@@ -1,0 +1,237 @@
+{
+  "type": "FeatureCollection",
+  "name": "mha-units",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94866,
+          15.37333
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Bharat Petroleum Corporation Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94076,
+          15.49357
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Deccan Fine Chemicals INDIA Pvt Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0758,
+          15.56225
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Esteem Industries Pvt Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82032,
+          15.53162
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Filpack (India) Pvt. Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04535,
+          15.418
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Finolex Cables Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82349,
+          15.64154
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Goa Glass Fibre Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97712,
+          15.48745
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Hindustan Petroleum Corporation Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80764,
+          15.3981
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Hindustan Petroleum Corporation Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8028,
+          15.4041
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Indian Oil Corporation Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06193,
+          15.42165
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Nestle India Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08307,
+          15.55058
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Omni Imex Pvt Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95548,
+          15.583
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Venus Ethoxyethers Pvt Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07564,
+          15.5308
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "VIC Industries",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88095,
+          15.37751
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Zuari Agrochemicals Ltd",
+        "Mobile": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88542,
+          15.38051
+        ]
+      },
+      "properties": {
+        "Asset": "GIDC",
+        "Name": "Zuari Indian Oil Tanking Pvt Ltd",
+        "Mobile": 0
+      }
+    }
+  ]
+}
