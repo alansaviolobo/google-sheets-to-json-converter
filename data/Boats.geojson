@@ -20,12 +20,12 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Fire Station Bicholim",
-        "Name": "Shri. Rahul Dessai",
-        "Mobile": 7391047153,
-        "Mobile2": 8308846752,
-        "Landline": "2362100 2361397/101",
-        "Email": "bic-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -140,12 +140,12 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "Fire Station Margao",
-        "Name": "Shri. Herculano Gill Souza",
-        "Mobile": 7391047144,
-        "Mobile2": 9763717057,
-        "Landline": "2714600 2715825/101",
-        "Email": "mrg-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -260,12 +260,12 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Fire Station Valpoi",
-        "Name": "Shri. Santosh Gawas",
-        "Mobile": 7391047165,
-        "Mobile2": 8308846753,
-        "Landline": "2374444/101",
-        "Email": "vap-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -280,12 +280,12 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Fire Station Vasco",
-        "Name": " Shri. Dilip Bicholkar",
-        "Mobile": 7391047142,
-        "Mobile2": 8308846758,
-        "Landline": "2513840 2519068/101",
-        "Email": "vas-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
