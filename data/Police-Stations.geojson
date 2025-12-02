@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Old Goa",
+        "Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in"
       }
     },
     {
@@ -52,11 +52,11 @@
         ]
       },
       "properties": {
-        "Station": "Agacaim",
-        "Name": "Anant A. Gaonkar",
-        "Mobile": 7875756023,
-        "Contact No": "0832-2218000",
-        "Email": "piagacaim@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -120,11 +120,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Colvale",
+        "Name": "Sanjit B. Kandolkar",
+        "Mobile": 7875756234,
+        "Contact No": "0832-2993234",
+        "Email": "picolvale@goapolice.gov.in"
       }
     },
     {
@@ -205,11 +205,11 @@
         ]
       },
       "properties": {
-        "Station": "Valpoi",
-        "Name": "Videsh P. Shirdokar",
-        "Mobile": 7875756034,
-        "Contact No": "0832-2374255",
-        "Email": "pivalpoi@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -222,11 +222,11 @@
         ]
       },
       "properties": {
-        "Station": "Margao Town",
-        "Name": "Suraj G. Samant",
-        "Mobile": 7875756039,
-        "Contact No": "0832-2705095",
-        "Email": "pimargao@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -239,11 +239,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Maina Curtorim",
+        "Name": "Arun Dessai",
+        "Mobile": 7875756042,
+        "Contact No": "0832-2991307",
+        "Email": "pi-mainacurtorim@goapolice.gov.in"
       }
     },
     {
@@ -273,23 +273,6 @@
         ]
       },
       "properties": {
-        "Station": "Colva",
-        "Name": "Vikram Naik",
-        "Mobile": 7875756040,
-        "Contact No": "0832-2788396",
-        "Email": "pi-colva@goapolice.gov.in"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.010183,
-          15.168828
-        ]
-      },
-      "properties": {
         "Station": "Loading...",
         "Name": null,
         "Mobile": null,
@@ -302,16 +285,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          74.010183,
+          15.168828
+        ]
+      },
+      "properties": {
+        "Station": "Cuncolim",
+        "Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           74.076196,
           15.226109
         ]
       },
       "properties": {
-        "Station": "Quepem",
-        "Name": "Arjun Sangodkar",
-        "Mobile": 7875756044,
-        "Contact No": "0832-2662253",
-        "Email": "pi-quepem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -358,11 +358,11 @@
         ]
       },
       "properties": {
-        "Station": "Canacona",
-        "Name": "Harish Raut Dessai",
-        "Mobile": 7875756047,
-        "Contact No": "0832-2633357",
-        "Email": "picanacona@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -392,11 +392,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Verna",
+        "Name": "Anand Shirodkar",
+        "Mobile": 7875756051,
+        "Contact No": "0832-2782325",
+        "Email": "pi-verna@goapolice.gov.in"
       }
     },
     {
