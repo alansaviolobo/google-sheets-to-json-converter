@@ -20,7 +20,7 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -40,12 +40,12 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "Fire Station Canacona",
-        "Name": "Shri. Dhiraj Dessai",
-        "Mobile": 7391047145,
-        "Mobile2": 8308846743,
-        "Landline": "2633500 2633311/101",
-        "Email": "can-fire.goa@nic.in"
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -80,12 +80,12 @@
       "properties": {
         "Id": 4,
         "Station": "FFHQ FS",
-        "Station_1": "Fire Force Headquarters",
-        "Name": "Shri. Dilip Gawas",
-        "Mobile": 8308846750,
-        "Mobile2": 7391047132,
-        "Landline": "0832-2485400",
-        "Email": "hq-fire.goa@nic.in"
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -120,7 +120,7 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -140,7 +140,7 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -160,12 +160,12 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "Fire Station Old Goa",
-        "Name": " Shri. R D Parab",
-        "Mobile": 7391047155,
-        "Mobile2": 8408091254,
-        "Landline": 2285344,
-        "Email": "olg-fire.goa@nic.in"
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -180,7 +180,7 @@
       "properties": {
         "Id": 9,
         "Station": "Panaji FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -200,7 +200,7 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -260,7 +260,7 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -280,7 +280,7 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
