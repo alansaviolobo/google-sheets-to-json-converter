@@ -240,12 +240,12 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Ponda",
+        "Name": "Shri. Sushil Morajkar",
+        "Mobile": 7391047150,
+        "Mobile2": 8308846759,
+        "Landline": "2312044 2315863/101",
+        "Email": "pnd-fire.goa@gov.in"
       }
     },
     {
