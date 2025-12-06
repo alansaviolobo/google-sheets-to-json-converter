@@ -60,12 +60,12 @@
       "properties": {
         "Id": 3,
         "Station": "Curchorem FS",
-        "Station_1": "Fire Station Curchorem",
-        "Name": "Shri. Damodar Zambaulikar",
-        "Mobile": 7391047146,
-        "Mobile2": 9763717049,
-        "Landline": "2650306 2650301/101",
-        "Email": "cur-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -80,12 +80,12 @@
       "properties": {
         "Id": 4,
         "Station": "FFHQ FS",
-        "Station_1": "Fire Force Headquarters",
-        "Name": "Shri. Dilip Gawas",
-        "Mobile": 8308846750,
-        "Mobile2": 7391047132,
-        "Landline": "0832-2485400",
-        "Email": "hq-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -180,12 +180,12 @@
       "properties": {
         "Id": 9,
         "Station": "Panaji FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Panaji",
+        "Name": " Shri. Rupesh Sawant",
+        "Mobile": 8308846747,
+        "Mobile2": 7391047132,
+        "Landline": "0832-2485400",
+        "Email": "pnj-fire.goa@nic.in"
       }
     },
     {
@@ -340,12 +340,12 @@
       "properties": {
         "Id": 17,
         "Station": "Cuncolim FS",
-        "Station_1": "Fire Station Cuncolim",
-        "Name": "Shri. Truptesh Naik",
-        "Mobile": 7391047147,
-        "Mobile2": 8308846742,
-        "Landline": "2225500 2425101 2423101",
-        "Email": "cun-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     }
   ]
