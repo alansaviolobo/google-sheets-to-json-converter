@@ -100,12 +100,12 @@
       "properties": {
         "Id": 5,
         "Station": "Kundaim FS",
-        "Station_1": "Fire Station Kundaim",
-        "Name": "Shri. Sushil Morajkar",
-        "Mobile": 7391047156,
-        "Mobile2": 9763717059,
-        "Landline": 2395455,
-        "Email": "kfs-fire.goa@nic.in"
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -340,7 +340,7 @@
       "properties": {
         "Id": 17,
         "Station": "Cuncolim FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
