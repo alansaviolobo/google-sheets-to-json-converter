@@ -154,11 +154,11 @@
         ]
       },
       "properties": {
-        "Station": "Calangute",
-        "Name": "Paresh G. Naik",
-        "Mobile": 7875756031,
-        "Contact No": "0832-2278284",
-        "Email": "picalangute@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -290,11 +290,11 @@
         ]
       },
       "properties": {
-        "Station": "Cuncolim",
-        "Name": "Diogo Gracias",
-        "Mobile": 7875756041,
-        "Contact No": "0832-2763234",
-        "Email": "picuncolim@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "Collem",
-        "Name": "Raghoba H. Kamat",
-        "Mobile": 7875756037,
-        "Contact No": "0832-2600233",
-        "Email": "picollem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     }
   ]

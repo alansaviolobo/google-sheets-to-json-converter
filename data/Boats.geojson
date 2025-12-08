@@ -40,7 +40,7 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -160,7 +160,7 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -240,7 +240,7 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -280,7 +280,7 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
