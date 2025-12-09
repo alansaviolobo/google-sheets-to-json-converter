@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -69,11 +69,11 @@
         ]
       },
       "properties": {
-        "Station": "Mapusa",
-        "Name": "Nikhil N. Palekar",
-        "Mobile": 7875756026,
-        "Contact No": "0832-2262231",
-        "Email": "pimapusa@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -86,11 +86,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Anjuna",
+        "Name": "Suraj H. Gawas",
+        "Mobile": 7875756027,
+        "Contact No": "0832-2273233",
+        "Email": "pianjuna@goapolice.gov.in"
       }
     },
     {
