@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -69,11 +69,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Mapusa",
+        "Name": "Nikhil N. Palekar",
+        "Mobile": 7875756026,
+        "Contact No": "0832-2262231",
+        "Email": "pimapusa@goapolice.gov.in"
       }
     },
     {
@@ -103,11 +103,11 @@
         ]
       },
       "properties": {
-        "Station": "Pernem",
-        "Name": "Sachin Lokre",
-        "Mobile": 7875756028,
-        "Contact No": "0832-2201233",
-        "Email": "pipernem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -375,11 +375,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Vasco",
+        "Name": "Vaibhav Naik",
+        "Mobile": 7875756049,
+        "Contact No": "0832-2512304",
+        "Email": "pi-vasco@goapolice.gov.in"
       }
     },
     {
