@@ -69,11 +69,11 @@
         ]
       },
       "properties": {
-        "Station": "Mapusa",
-        "Name": "Nikhil N. Palekar",
-        "Mobile": 7875756026,
-        "Contact No": "0832-2262231",
-        "Email": "pimapusa@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -86,11 +86,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Anjuna",
+        "Name": "Suraj H. Gawas",
+        "Mobile": 7875756027,
+        "Contact No": "0832-2273233",
+        "Email": "pianjuna@goapolice.gov.in"
       }
     },
     {
@@ -324,11 +324,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Curchorem",
+        "Name": "Melson Colaco",
+        "Mobile": 7875756045,
+        "Contact No": "0832-2650568",
+        "Email": "pi-curchorem@goapolice.gov.in"
       }
     },
     {
@@ -375,11 +375,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco",
-        "Name": "Vaibhav Naik",
-        "Mobile": 7875756049,
-        "Contact No": "0832-2512304",
-        "Email": "pi-vasco@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "Collem",
-        "Name": "Raghoba H. Kamat",
-        "Mobile": 7875756037,
-        "Contact No": "0832-2600233",
-        "Email": "picollem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     }
   ]
