@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Old Goa",
+        "Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in"
       }
     },
     {
@@ -69,11 +69,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Mapusa",
+        "Name": "Nikhil N. Palekar",
+        "Mobile": 7875756026,
+        "Contact No": "0832-2262231",
+        "Email": "pimapusa@goapolice.gov.in"
       }
     },
     {
@@ -137,11 +137,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Porvorim",
+        "Name": "Rahul Parab",
+        "Mobile": 7875756030,
+        "Contact No": "0832-2417704",
+        "Email": "piporvorim@goapolice.gov.in"
       }
     },
     {
@@ -171,11 +171,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Saligao",
+        "Name": "Milind M. Bhuimbar",
+        "Mobile": 7875756078,
+        "Contact No": "0832-2278100",
+        "Email": "pisaligao@goapolice.gov.in"
       }
     },
     {
@@ -239,11 +239,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Maina Curtorim",
+        "Name": "Arun Dessai",
+        "Mobile": 7875756042,
+        "Contact No": "0832-2991307",
+        "Email": "pi-mainacurtorim@goapolice.gov.in"
       }
     },
     {
@@ -290,11 +290,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Cuncolim",
+        "Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in"
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Collem",
+        "Name": "Raghoba H. Kamat",
+        "Mobile": 7875756037,
+        "Contact No": "0832-2600233",
+        "Email": "picollem@goapolice.gov.in"
       }
     }
   ]
