@@ -160,12 +160,12 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Old Goa",
+        "Name": " Shri. R D Parab",
+        "Mobile": 7391047155,
+        "Mobile2": 8408091254,
+        "Landline": 2285344,
+        "Email": "olg-fire.goa@nic.in"
       }
     },
     {
@@ -180,12 +180,12 @@
       "properties": {
         "Id": 9,
         "Station": "Panaji FS",
-        "Station_1": "Fire Station Panaji",
-        "Name": " Shri. Rupesh Sawant",
-        "Mobile": 8308846747,
-        "Mobile2": 7391047132,
-        "Landline": "0832-2485400",
-        "Email": "pnj-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -200,12 +200,12 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pernem",
+        "Name": "Shri. N. H. Parwar",
+        "Mobile": 7391047133,
+        "Mobile2": 8308846751,
+        "Landline": "2201201/ 2201393/101",
+        "Email": "per-fire.goa@nic.in"
       }
     },
     {
@@ -260,12 +260,12 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Valpoi",
+        "Name": "Shri. Santosh Gawas",
+        "Mobile": 7391047165,
+        "Mobile2": 8308846753,
+        "Landline": "2374444/101",
+        "Email": "vap-fire.goa@nic.in"
       }
     },
     {
@@ -280,12 +280,12 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Vasco",
+        "Name": " Shri. Dilip Bicholkar",
+        "Mobile": 7391047142,
+        "Mobile2": 8308846758,
+        "Landline": "2513840 2519068/101",
+        "Email": "vas-fire.goa@nic.in"
       }
     },
     {
