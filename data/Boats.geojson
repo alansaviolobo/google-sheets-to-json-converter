@@ -80,12 +80,12 @@
       "properties": {
         "Id": 4,
         "Station": "FFHQ FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Force Headquarters",
+        "Name": "Shri. Dilip Gawas",
+        "Mobile": 8308846750,
+        "Mobile2": 7391047132,
+        "Landline": "0832-2485400",
+        "Email": "hq-fire.goa@nic.in"
       }
     },
     {
