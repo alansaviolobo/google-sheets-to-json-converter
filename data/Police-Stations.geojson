@@ -137,11 +137,11 @@
         ]
       },
       "properties": {
-        "Station": "Porvorim",
-        "Name": "Rahul Parab",
-        "Mobile": 7875756030,
-        "Contact No": "0832-2417704",
-        "Email": "piporvorim@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -409,11 +409,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco Railway",
-        "Name": "Amarnath Passi",
-        "Mobile": 7875756052,
-        "Contact No": "0832-2512488",
-        "Email": "pivascorailway@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -426,11 +426,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Mormagoa",
+        "Name": "Sherif Josaphat Jaques",
+        "Mobile": 7875756050,
+        "Contact No": "0832-2520740",
+        "Email": "pi-mormugao@goapolice.gov.in"
       }
     },
     {
