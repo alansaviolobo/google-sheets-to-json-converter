@@ -20,12 +20,12 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Bicholim",
+        "Name": "Shri. Rahul Dessai",
+        "Mobile": 7391047153,
+        "Mobile2": 8308846752,
+        "Landline": "2362100 2361397/101",
+        "Email": "bic-fire.goa@nic.in"
       }
     },
     {
@@ -60,12 +60,12 @@
       "properties": {
         "Id": 3,
         "Station": "Curchorem FS",
-        "Station_1": "Fire Station Curchorem",
-        "Name": "Shri. Damodar Zambaulikar",
-        "Mobile": 7391047146,
-        "Mobile2": 9763717049,
-        "Landline": "2650306 2650301/101",
-        "Email": "cur-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -120,12 +120,12 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Mapusa",
+        "Name": "Shri. Ganesh Govekar",
+        "Mobile": 7391047134,
+        "Mobile2": 9518789090,
+        "Landline": "2262900 2263354/101",
+        "Email": "map-fire.goa@nic.in"
       }
     },
     {
@@ -200,12 +200,12 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pernem",
+        "Name": "Shri. N. H. Parwar",
+        "Mobile": 7391047133,
+        "Mobile2": 8308846751,
+        "Landline": "2201201/ 2201393/101",
+        "Email": "per-fire.goa@nic.in"
       }
     },
     {
@@ -240,12 +240,12 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Ponda",
+        "Name": "Shri. Sushil Morajkar",
+        "Mobile": 7391047150,
+        "Mobile2": 8308846759,
+        "Landline": "2312044 2315863/101",
+        "Email": "pnd-fire.goa@gov.in"
       }
     },
     {
