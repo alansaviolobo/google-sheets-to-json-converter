@@ -60,12 +60,12 @@
       "properties": {
         "Id": 3,
         "Station": "Curchorem FS",
-        "Station_1": "Fire Station Curchorem",
-        "Name": "Shri. Damodar Zambaulikar",
-        "Mobile": 7391047146,
-        "Mobile2": 9763717049,
-        "Landline": "2650306 2650301/101",
-        "Email": "cur-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -240,12 +240,12 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "Fire Station Ponda",
-        "Name": "Shri. Sushil Morajkar",
-        "Mobile": 7391047150,
-        "Mobile2": 8308846759,
-        "Landline": "2312044 2315863/101",
-        "Email": "pnd-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -300,12 +300,12 @@
       "properties": {
         "Id": 15,
         "Station": "Verna FS",
-        "Station_1": "Fire Station Verna",
-        "Name": "Shri. Dilesh Gaonkar",
-        "Mobile": 7391047148,
-        "Mobile2": 8308846762,
-        "Landline": "2887721/101",
-        "Email": "vrn-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
