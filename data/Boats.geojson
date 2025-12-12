@@ -40,12 +40,12 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "Fire Station Canacona",
-        "Name": "Shri. Dhiraj Dessai",
-        "Mobile": 7391047145,
-        "Mobile2": 8308846743,
-        "Landline": "2633500 2633311/101",
-        "Email": "can-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -140,12 +140,12 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "Fire Station Margao",
-        "Name": "Shri. Herculano Gill Souza",
-        "Mobile": 7391047144,
-        "Mobile2": 9763717057,
-        "Landline": "2714600 2715825/101",
-        "Email": "mrg-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -260,12 +260,12 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Fire Station Valpoi",
-        "Name": "Shri. Santosh Gawas",
-        "Mobile": 7391047165,
-        "Mobile2": 8308846753,
-        "Landline": "2374444/101",
-        "Email": "vap-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -340,12 +340,12 @@
       "properties": {
         "Id": 17,
         "Station": "Cuncolim FS",
-        "Station_1": "Fire Station Cuncolim",
-        "Name": "Shri. Truptesh Naik",
-        "Mobile": 7391047147,
-        "Mobile2": 8308846742,
-        "Landline": "2225500 2425101 2423101",
-        "Email": "cun-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     }
   ]
