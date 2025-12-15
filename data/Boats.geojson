@@ -40,12 +40,12 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Canacona",
+        "Name": "Shri. Dhiraj Dessai",
+        "Mobile": 7391047145,
+        "Mobile2": 8308846743,
+        "Landline": "2633500 2633311/101",
+        "Email": "can-fire.goa@nic.in"
       }
     },
     {
@@ -140,12 +140,12 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Margao",
+        "Name": "Shri. Herculano Gill Souza",
+        "Mobile": 7391047144,
+        "Mobile2": 9763717057,
+        "Landline": "2714600 2715825/101",
+        "Email": "mrg-fire.goa@gov.in"
       }
     },
     {
@@ -160,12 +160,12 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Old Goa",
+        "Name": " Shri. R D Parab",
+        "Mobile": 7391047155,
+        "Mobile2": 8408091254,
+        "Landline": 2285344,
+        "Email": "olg-fire.goa@nic.in"
       }
     },
     {
@@ -200,12 +200,12 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pernem",
+        "Name": "Shri. N. H. Parwar",
+        "Mobile": 7391047133,
+        "Mobile2": 8308846751,
+        "Landline": "2201201/ 2201393/101",
+        "Email": "per-fire.goa@nic.in"
       }
     },
     {
@@ -220,12 +220,12 @@
       "properties": {
         "Id": 11,
         "Station": "Pilerne FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pilerne",
+        "Name": "Shri. D. G. Pednekar",
+        "Mobile": 7391047141,
+        "Mobile2": 9420596274,
+        "Landline": "2407100 / 2407101",
+        "Email": "pil-fire.goa@nic.in"
       }
     },
     {
@@ -280,12 +280,12 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Vasco",
+        "Name": " Shri. Dilip Bicholkar",
+        "Mobile": 7391047142,
+        "Mobile2": 8308846758,
+        "Landline": "2513840 2519068/101",
+        "Email": "vas-fire.goa@nic.in"
       }
     },
     {
