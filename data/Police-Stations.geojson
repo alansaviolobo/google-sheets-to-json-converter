@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Old Goa",
+        "Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in"
       }
     },
     {
@@ -69,11 +69,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Mapusa",
+        "Name": "Nikhil N. Palekar",
+        "Mobile": 7875756026,
+        "Contact No": "0832-2262231",
+        "Email": "pimapusa@goapolice.gov.in"
       }
     },
     {
@@ -103,11 +103,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Pernem",
+        "Name": "Sachin Lokre",
+        "Mobile": 7875756028,
+        "Contact No": "0832-2201233",
+        "Email": "pipernem@goapolice.gov.in"
       }
     },
     {
@@ -154,7 +154,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -188,11 +188,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Bicholim",
+        "Name": "Vijay Rane Sardesai",
+        "Mobile": 7875756033,
+        "Contact No": "0832-2362233",
+        "Email": "pibicholim@goapolice.gov.in"
       }
     },
     {
@@ -290,7 +290,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -375,7 +375,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -426,11 +426,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Mormagoa",
+        "Name": "Sherif Josaphat Jaques",
+        "Mobile": 7875756050,
+        "Contact No": "0832-2520740",
+        "Email": "pi-mormugao@goapolice.gov.in"
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Collem",
+        "Name": "Raghoba H. Kamat",
+        "Mobile": 7875756037,
+        "Contact No": "0832-2600233",
+        "Email": "picollem@goapolice.gov.in"
       }
     }
   ]
