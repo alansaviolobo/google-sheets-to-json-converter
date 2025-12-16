@@ -60,12 +60,12 @@
       "properties": {
         "Id": 3,
         "Station": "Curchorem FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Curchorem",
+        "Name": "Shri. Damodar Zambaulikar",
+        "Mobile": 7391047146,
+        "Mobile2": 9763717049,
+        "Landline": "2650306 2650301/101",
+        "Email": "cur-fire.goa@nic.in"
       }
     },
     {
@@ -340,12 +340,12 @@
       "properties": {
         "Id": 17,
         "Station": "Cuncolim FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Cuncolim",
+        "Name": "Shri. Truptesh Naik",
+        "Mobile": 7391047147,
+        "Mobile2": 8308846742,
+        "Landline": "2225500 2425101 2423101",
+        "Email": "cun-fire.goa@gov.in"
       }
     }
   ]
