@@ -20,12 +20,12 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Bicholim",
+        "Name": "Shri. Rahul Dessai",
+        "Mobile": 7391047153,
+        "Mobile2": 8308846752,
+        "Landline": "2362100 2361397/101",
+        "Email": "bic-fire.goa@nic.in"
       }
     },
     {
@@ -220,12 +220,12 @@
       "properties": {
         "Id": 11,
         "Station": "Pilerne FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pilerne",
+        "Name": "Shri. D. G. Pednekar",
+        "Mobile": 7391047141,
+        "Mobile2": 9420596274,
+        "Landline": "2407100 / 2407101",
+        "Email": "pil-fire.goa@nic.in"
       }
     },
     {
@@ -280,12 +280,12 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Vasco",
+        "Name": " Shri. Dilip Bicholkar",
+        "Mobile": 7391047142,
+        "Mobile2": 8308846758,
+        "Landline": "2513840 2519068/101",
+        "Email": "vas-fire.goa@nic.in"
       }
     },
     {
