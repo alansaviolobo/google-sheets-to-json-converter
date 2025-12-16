@@ -100,12 +100,12 @@
       "properties": {
         "Id": 5,
         "Station": "Kundaim FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Kundaim",
+        "Name": "Shri. Sushil Morajkar",
+        "Mobile": 7391047156,
+        "Mobile2": 9763717059,
+        "Landline": 2395455,
+        "Email": "kfs-fire.goa@nic.in"
       }
     },
     {
@@ -120,12 +120,12 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Mapusa",
+        "Name": "Shri. Ganesh Govekar",
+        "Mobile": 7391047134,
+        "Mobile2": 9518789090,
+        "Landline": "2262900 2263354/101",
+        "Email": "map-fire.goa@nic.in"
       }
     },
     {
@@ -200,12 +200,12 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pernem",
+        "Name": "Shri. N. H. Parwar",
+        "Mobile": 7391047133,
+        "Mobile2": 8308846751,
+        "Landline": "2201201/ 2201393/101",
+        "Email": "per-fire.goa@nic.in"
       }
     },
     {
@@ -220,12 +220,12 @@
       "properties": {
         "Id": 11,
         "Station": "Pilerne FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pilerne",
+        "Name": "Shri. D. G. Pednekar",
+        "Mobile": 7391047141,
+        "Mobile2": 9420596274,
+        "Landline": "2407100 / 2407101",
+        "Email": "pil-fire.goa@nic.in"
       }
     },
     {
