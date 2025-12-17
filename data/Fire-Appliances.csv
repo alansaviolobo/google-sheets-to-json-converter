@@ -1,2 +1,68 @@
 Latitude,Longitude,Fire Station,Vehicle_Type,Vehicle_No,Vehicle Status
-,,#VALUE!,,,
+15.589620,73.946630,Bicholim FS,Mid Sized Water Tender,MSWT GA-07/G-3101,Working
+15.589620,73.946630,Bicholim FS,Motor Cycle,GA-07/G-0036,Working
+15.589620,73.946630,Bicholim FS,Motorcycle Response Unit,MRU GA-07/G-0963,Working
+15.589620,73.946630,Bicholim FS,Quick Response Vehicle 1,QRV GA-07/G-1941    ,Working
+15.589620,73.946630,Bicholim FS,Quick Response Vehicle 2,QRV GA-07/G-1941    ,Working
+15.589620,73.946630,Bicholim FS,Water Tender,WT GA-01/G-1064,Working
+15.006280,74.058060,Canacona FS,Motor Cycle,GA-07/G-0041,Working
+15.006280,74.058060,Canacona FS,Quick Response Fire Tender,QRFT GA-07/G-1567,Working
+15.006280,74.058060,Canacona FS,Water Tender,WT GA-07/G-6363,Working
+15.186300,74.021100,Cuncolim FS,Water Tender,WT GA-07/G-7272,Working
+15.260250,74.103570,Curchorem FS,12 KL Water Bauser,WB GA-07/G-7667,Working
+15.260250,74.103570,Curchorem FS,Ambulance,,
+15.260250,74.103570,Curchorem FS,Emergency Rescue Tender,ERT GA-07/G-7447,Working
+15.260250,74.103570,Curchorem FS,Motor Cycle,GA-07/G-0040,Working
+15.260250,74.103570,Curchorem FS,Quick Response Vehicle,QRV GA-07/G-2003,Working
+15.260250,74.103570,Curchorem FS,Water Tender,WT GA-07/G-7557,Working
+15.486910,73.817400,FFHQ FS,12 KL Water Bauser,WB GA-07/G-7600,Working
+15.486910,73.817400,FFHQ FS,Emergency Rescue Tender,ERT GA-07/G-7677,Working
+15.486910,73.817400,FFHQ FS,Motorcycle Response Unit 1,MRU GA-07/G-1529   ,Working
+15.486910,73.817400,FFHQ FS,Motorcycle Response Unit 2,MRU GA-07/G-1530 ,Working
+15.486910,73.817400,FFHQ FS,Quick Response Vehicle 1,QRV GA-07/G-0308   ,Working
+15.486910,73.817400,FFHQ FS,Quick Response Vehicle 2,QRV GA-07/G-0681,Working
+15.486910,73.817400,FFHQ FS,Turn Table Ladder,TTL GA-07/G-2002,Working
+15.486910,73.817400,FFHQ FS,Water Tender,WT GA-07/G-7101,Working
+15.466020,73.962510,Kundaim FS,Motor Cycle,GA-07/G-0039,Working
+15.466020,73.962510,Kundaim FS,Water Tender,WT GA-07/G-0820,Working
+15.589840,73.808770,Mapusa FS,Mini Rescue Tender,MRT GA-07/G-2900,Working
+15.589840,73.808770,Mapusa FS,Motor Cycle,GA-07/G-0332,Working
+15.589840,73.808770,Mapusa FS,Motorcycle Response Unit,MRU GA-07/G-0959,Working
+15.589840,73.808770,Mapusa FS,Water Tender 1,WT GA-07/G-8101   ,Working
+15.589840,73.808770,Mapusa FS,Water Tender 2,WT GA-01/G-7679,Working
+15.269310,73.970330,Margao FS,12 KL Water Bauser,WB GA-07/G-7100,Working
+15.269310,73.970330,Margao FS,Aerial Ladder Platform,ALP GA-07/G-1001,Working
+15.269310,73.970330,Margao FS,Motor Cycle,GA-07/G-0312      GA-07/G-0791,Working
+15.269310,73.970330,Margao FS,Motorcycle Response Unit,MRU GA-07/G-0958,Working
+15.269310,73.970330,Margao FS,Quick Response Fire Tender,QRFT GA-07/G-1568,Working
+15.269310,73.970330,Margao FS,Water Tender,WT GA-07/G-6101,Working
+15.269310,73.970330,Margao FS,Water Tender,WT GA-01/G-2040,Working
+15.500090,73.914080,Old Goa FS,Mid Sized Water Tender,MSWT GA-07/G-5101,Working
+15.500090,73.914080,Old Goa FS,Motor Cycle,GA-07/G-0314,Working
+15.500090,73.914080,Old Goa FS,Motorcycle Response Unit,MRU GA-07/G-0960,Working
+15.485770,73.816560,Panaji FS,Emergency Rescue Tender,ERT GA-07/G-1121,Working
+15.485770,73.816560,Panaji FS,Motorcycle Response Unit,MRU GA-07/G-1531,Working
+15.485770,73.816560,Panaji FS,Water Tender,WT GA-07/G-0350,Working
+15.719820,73.796320,Pernem FS,Mid Sized Water Tender,MSWT GA-07/G-2101,Working
+15.719820,73.796320,Pernem FS,Mini Rescue Tender,MRT GA-07/G-4600,Working
+15.719820,73.796320,Pernem FS,Motorcycle Response Unit,MRU GA-07/G-0961,Working
+15.719820,73.796320,Pernem FS,Quick Response Vehicle,QRV GA-07/G-0307,Working
+15.533040,73.793340,Pilerne FS,Motor Cycle,GA-07/G-0334,Working
+15.533040,73.793340,Pilerne FS,Quick Response Vehicle,QRV GA-07/G-0680,Working
+15.533040,73.793340,Pilerne FS,Water Tender,WT GA-01/G-2042,Working
+15.403090,74.002760,Ponda FS,12 KL Water Bauser,WB GA-07/G-9797,Working
+15.403090,74.002760,Ponda FS,Motor Cycle,GA-07/G-0313,
+15.403090,74.002760,Ponda FS,Motorcycle Response Unit,MRU GA-07/G-0962,Working
+15.403090,74.002760,Ponda FS,Quick Response Fire Tender,QRFT GA-07/G-1571,Working
+15.403090,74.002760,Ponda FS,Quick Response Vehicle,QRV GA-07/G-2004,Working
+15.403090,74.002760,Ponda FS,Water Tender,WT GA-07/G-9101,Working
+15.522800,73.829480,Porvorim FS,Water Tender,WT GA-01/G-2041,Working
+15.522800,73.829480,Porvorim FS,Water Tender,WT GA-01/G-2041,Working
+15.400300,73.820700,Vasco FS,Mid Sized Water Tender,MSWT GA-07/G-4101,Working
+15.400300,73.820700,Vasco FS,Motor Cycle,GA-07/G-1799,Working
+15.400300,73.820700,Vasco FS,Quick Response Fire Tender,QRFT GA-07/G-1570,Working
+15.400300,73.820700,Vasco FS,Water Cum Foam Tender,WFT GA-07/G-0819,Working
+15.369400,73.935670,Verna FS,Industrial Fire Tender,AMFT GA-07/G-9909,Working
+15.369400,73.935670,Verna FS,Motor Cycle,GA-07/G-0330,Working
+15.369400,73.935670,Verna FS,Quick Response Fire Tender,QRFT GA-07/G-1569,Working
+15.369400,73.935670,Verna FS,Quick Response Vehicle,,
