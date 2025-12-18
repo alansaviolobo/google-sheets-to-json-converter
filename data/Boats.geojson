@@ -20,12 +20,12 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Fire Station Bicholim",
-        "Name": "Shri. Rahul Dessai",
-        "Mobile": 7391047153,
-        "Mobile2": 8308846752,
-        "Landline": "2362100 2361397/101",
-        "Email": "bic-fire.goa@nic.in"
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -260,12 +260,12 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Fire Station Valpoi",
-        "Name": "Shri. Santosh Gawas",
-        "Mobile": 7391047165,
-        "Mobile2": 8308846753,
-        "Landline": "2374444/101",
-        "Email": "vap-fire.goa@nic.in"
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
