@@ -69,7 +69,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -103,7 +103,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -324,11 +324,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Curchorem",
+        "Name": "Melson Colaco",
+        "Mobile": 7875756045,
+        "Contact No": "0832-2650568",
+        "Email": "pi-curchorem@goapolice.gov.in"
       }
     },
     {
@@ -375,7 +375,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -409,7 +409,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -460,7 +460,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
