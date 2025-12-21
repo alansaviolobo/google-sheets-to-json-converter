@@ -188,11 +188,11 @@
         ]
       },
       "properties": {
-        "Station": "Bicholim",
-        "Name": "Vijay Rane Sardesai",
-        "Mobile": 7875756033,
-        "Contact No": "0832-2362233",
-        "Email": "pibicholim@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -375,11 +375,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Vasco",
+        "Name": "Vaibhav Naik",
+        "Mobile": 7875756049,
+        "Contact No": "0832-2512304",
+        "Email": "pi-vasco@goapolice.gov.in"
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Collem",
+        "Name": "Raghoba H. Kamat",
+        "Mobile": 7875756037,
+        "Contact No": "0832-2600233",
+        "Email": "picollem@goapolice.gov.in"
       }
     }
   ]
