@@ -171,11 +171,11 @@
         ]
       },
       "properties": {
-        "Station": "Saligao",
-        "Name": "Milind M. Bhuimbar",
-        "Mobile": 7875756078,
-        "Contact No": "0832-2278100",
-        "Email": "pisaligao@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -409,11 +409,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco Railway",
-        "Name": "Amarnath Passi",
-        "Mobile": 7875756052,
-        "Contact No": "0832-2512488",
-        "Email": "pivascorailway@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
