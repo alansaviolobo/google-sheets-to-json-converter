@@ -19,14 +19,14 @@
       },
       "properties": {
         "": "tillari",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 64,
         "Full level (m)": 113.2,
         "Max storage (Ha.m.)": 46217,
-        "Current Level (m)": 109.08,
-        "Current Storage (Ha.m.)": 39858.2,
+        "Current Level (m)": 108.11,
+        "Current Storage (Ha.m.)": 38406.5,
         "Discharge (cumecs)": 0,
-        "Percent_Full": 86,
+        "Percent_Full": 83,
         "Name": "Tillari Dam"
       }
     },
@@ -41,14 +41,14 @@
       },
       "properties": {
         "": "selaulim",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 20.42,
         "Full level (m)": 41.15,
         "Max storage (Ha.m.)": 23436,
-        "Current Level (m)": 40.91,
-        "Current Storage (Ha.m.)": 22984.9,
-        "Discharge (cumecs)": 3,
-        "Percent_Full": 98,
+        "Current Level (m)": 40.76,
+        "Current Storage (Ha.m.)": 22693.3,
+        "Discharge (cumecs)": 4,
+        "Percent_Full": 97,
         "Name": "Selaulim Dam"
       }
     },
@@ -63,14 +63,14 @@
       },
       "properties": {
         "": "anjunem",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 61.5,
         "Full level (m)": 93.2,
         "Max storage (Ha.m.)": 4483,
-        "Current Level (m)": 91.94,
-        "Current Storage (Ha.m.)": 4145.6,
-        "Discharge (cumecs)": 2.25,
-        "Percent_Full": 92,
+        "Current Level (m)": 91.27,
+        "Current Storage (Ha.m.)": 3984.8,
+        "Discharge (cumecs)": 3.05,
+        "Percent_Full": 89,
         "Name": "Anjunem Dam"
       }
     },
@@ -85,14 +85,14 @@
       },
       "properties": {
         "": "chapoli",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 22,
         "Full level (m)": 38.75,
         "Max storage (Ha.m.)": 1122,
-        "Current Level (m)": 37.95,
-        "Current Storage (Ha.m.)": 1044.23,
+        "Current Level (m)": 37.72,
+        "Current Storage (Ha.m.)": 1022.33,
         "Discharge (cumecs)": 0,
-        "Percent_Full": 93,
+        "Percent_Full": 91,
         "Name": "Chapoli Dam"
       }
     },
@@ -107,7 +107,7 @@
       },
       "properties": {
         "": "amthane",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 29,
         "Full level (m)": 50.03,
         "Max storage (Ha.m.)": 585,
@@ -129,14 +129,14 @@
       },
       "properties": {
         "": "panchawadi",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 14.7,
         "Full level (m)": 26,
         "Max storage (Ha.m.)": 436.8,
-        "Current Level (m)": 25.27,
-        "Current Storage (Ha.m.)": 381.39,
+        "Current Level (m)": 25.1,
+        "Current Storage (Ha.m.)": 368.3,
         "Discharge (cumecs)": 0,
-        "Percent_Full": 87,
+        "Percent_Full": 84,
         "Name": "Panchawadi Dam"
       }
     },
@@ -151,14 +151,14 @@
       },
       "properties": {
         "": "gaunem",
-        "Date": "*1 week 4 hours* ago",
+        "Date": "*5 hours 35 min* ago",
         "Dead level (m)": 46,
         "Full level (m)": 63.5,
         "Max storage (Ha.m.)": 177,
-        "Current Level (m)": 62.63,
-        "Current Storage (Ha.m.)": 159.38,
+        "Current Level (m)": 62.43,
+        "Current Storage (Ha.m.)": 155.98,
         "Discharge (cumecs)": 0,
-        "Percent_Full": 90,
+        "Percent_Full": 88,
         "Name": "Gaunem Dam"
       }
     }
