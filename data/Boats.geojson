@@ -40,7 +40,7 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -80,7 +80,7 @@
       "properties": {
         "Id": 4,
         "Station": "FFHQ FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -200,7 +200,7 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
