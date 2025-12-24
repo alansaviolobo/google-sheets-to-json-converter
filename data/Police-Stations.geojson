@@ -69,11 +69,11 @@
         ]
       },
       "properties": {
-        "Station": "Mapusa",
-        "Name": "Nikhil N. Palekar",
-        "Mobile": 7875756026,
-        "Contact No": "0832-2262231",
-        "Email": "pimapusa@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -154,11 +154,11 @@
         ]
       },
       "properties": {
-        "Station": "Calangute",
-        "Name": "Paresh G. Naik",
-        "Mobile": 7875756031,
-        "Contact No": "0832-2278284",
-        "Email": "picalangute@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -392,11 +392,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Verna",
+        "Name": "Anand Shirodkar",
+        "Mobile": 7875756051,
+        "Contact No": "0832-2782325",
+        "Email": "pi-verna@goapolice.gov.in"
       }
     },
     {
