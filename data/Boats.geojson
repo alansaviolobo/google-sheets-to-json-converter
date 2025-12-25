@@ -220,7 +220,7 @@
       "properties": {
         "Id": 11,
         "Station": "Pilerne FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -260,7 +260,7 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -280,7 +280,7 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
