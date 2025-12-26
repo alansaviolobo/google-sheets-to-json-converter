@@ -52,7 +52,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -69,7 +69,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -103,7 +103,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -137,7 +137,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -154,7 +154,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -188,7 +188,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -256,7 +256,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -409,11 +409,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco Railway",
-        "Name": "Amarnath Passi",
-        "Mobile": 7875756052,
-        "Contact No": "0832-2512488",
-        "Email": "pivascorailway@goapolice.gov.in"
+        "Station": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -460,7 +460,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
