@@ -7,5 +7,2871 @@
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75966266,
+          15.6425788
+        ]
+      },
+      "properties": {
+        "Name": "Agarwada Chopdem",
+        "Phone 1": 2246254,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.90235385,
+          15.70420883
+        ]
+      },
+      "properties": {
+        "Name": "Allorna",
+        "Phone 1": 2205221,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.71204404,
+          15.68872422
+        ]
+      },
+      "properties": {
+        "Name": "Arambol",
+        "Phone 1": 2242966,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81502494,
+          15.7339968
+        ]
+      },
+      "properties": {
+        "Name": "Casne-ambre-Porascadem",
+        "Phone 1": 2201331,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87189856,
+          15.71826794
+        ]
+      },
+      "properties": {
+        "Name": "Casarvarnem",
+        "Phone 1": 2205220,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89997679,
+          15.73218339
+        ]
+      },
+      "properties": {
+        "Name": "Chandel-Hasapur",
+        "Phone 1": 2205100,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75111145,
+          15.71205547
+        ]
+      },
+      "properties": {
+        "Name": "Corgao",
+        "Phone 1": 2241189,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83836571,
+          15.6684597
+        ]
+      },
+      "properties": {
+        "Name": "Dhargalim",
+        "Phone 1": 2240250,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93660984,
+          15.70820975
+        ]
+      },
+      "properties": {
+        "Name": "Ibrampur-Hankhane",
+        "Phone 1": 2209222,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7270007,
+          15.66298866
+        ]
+      },
+      "properties": {
+        "Name": "Mandrem",
+        "Phone 1": 2247222,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74013983,
+          15.6367931
+        ]
+      },
+      "properties": {
+        "Name": "Morjim",
+        "Phone 1": 2244310,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88085482,
+          15.68752578
+        ]
+      },
+      "properties": {
+        "Name": "Ozarim",
+        "Phone 1": 2207110,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77908048,
+          15.66856368
+        ]
+      },
+      "properties": {
+        "Name": "Parcem",
+        "Phone 1": 2246247,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.72083728,
+          15.70608416
+        ]
+      },
+      "properties": {
+        "Name": "Paliem",
+        "Phone 1": 2292128,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6968994,
+          15.71577865
+        ]
+      },
+      "properties": {
+        "Name": "Querim-Tiracol",
+        "Phone 1": 2292161,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84015803,
+          15.7604242
+        ]
+      },
+      "properties": {
+        "Name": "Tamboxem-Mopa-Ugavem",
+        "Phone 1": 2204511,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84585776,
+          15.77081554
+        ]
+      },
+      "properties": {
+        "Name": "Torxem",
+        "Phone 1": 2204510,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79685984,
+          15.66745475
+        ]
+      },
+      "properties": {
+        "Name": "Tuem",
+        "Phone 1": 2240585,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82245813,
+          15.69990032
+        ]
+      },
+      "properties": {
+        "Name": "Vironda",
+        "Phone 1": 2201336,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83497672,
+          15.72693031
+        ]
+      },
+      "properties": {
+        "Name": "Warkhand-Nagzar",
+        "Phone 1": 2204111,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89815878,
+          15.63842391
+        ]
+      },
+      "properties": {
+        "Name": "Advalpale",
+        "Phone 1": 2215211,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98214555,
+          15.53400377
+        ]
+      },
+      "properties": {
+        "Name": "Amona",
+        "Phone 1": 2386433,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01292838,
+          15.54392579
+        ]
+      },
+      "properties": {
+        "Name": "Cudnem",
+        "Phone 1": 2364217,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04559386,
+          15.56455304
+        ]
+      },
+      "properties": {
+        "Name": "Harvalem",
+        "Phone 1": null,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97858982,
+          15.55743773
+        ]
+      },
+      "properties": {
+        "Name": "Karapur-Sarvan",
+        "Phone 1": 2364273,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94085733,
+          15.64593247
+        ]
+      },
+      "properties": {
+        "Name": "Latambarcem",
+        "Phone 1": 2380113,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92047419,
+          15.57901196
+        ]
+      },
+      "properties": {
+        "Name": "Maem-Vaiguinim",
+        "Phone 1": 2387054,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89763723,
+          15.69857551
+        ]
+      },
+      "properties": {
+        "Name": "Mencrem-Dhumacem",
+        "Phone 1": 2210279,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9215985,
+          15.60886163
+        ]
+      },
+      "properties": {
+        "Name": "Mulgao",
+        "Phone 1": 2215261,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92146435,
+          15.54982468
+        ]
+      },
+      "properties": {
+        "Name": "Naroa",
+        "Phone 1": 2387012,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00739891,
+          15.53038758
+        ]
+      },
+      "properties": {
+        "Name": "Navelim",
+        "Phone 1": 2386111,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97685691,
+          15.61297711
+        ]
+      },
+      "properties": {
+        "Name": "Ona-Maulingem-Curchirem",
+        "Phone 1": 2361258,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06080943,
+          15.47805251
+        ]
+      },
+      "properties": {
+        "Name": "Pale-Cothombi",
+        "Phone 1": 2372226,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95118052,
+          15.55532096
+        ]
+      },
+      "properties": {
+        "Name": "Piligao",
+        "Phone 1": 2362364,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93037072,
+          15.69258822
+        ]
+      },
+      "properties": {
+        "Name": "Salem",
+        "Phone 1": 2389270,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.90260932,
+          15.60409492
+        ]
+      },
+      "properties": {
+        "Name": "Sirigao",
+        "Phone 1": 3950398,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03039342,
+          15.49913244
+        ]
+      },
+      "properties": {
+        "Name": "Surla",
+        "Phone 1": 2353234,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.05353708,
+          15.50119632
+        ]
+      },
+      "properties": {
+        "Name": "Velguem",
+        "Phone 1": 2353249,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92460686,
+          15.45108315
+        ]
+      },
+      "properties": {
+        "Name": "Azossim-Mandur",
+        "Phone 1": 2208160,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88344293,
+          15.44761256
+        ]
+      },
+      "properties": {
+        "Name": "Batim",
+        "Phone 1": 2217453,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93238913,
+          15.48676473
+        ]
+      },
+      "properties": {
+        "Name": "Carambolim",
+        "Phone 1": 2284964,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87270103,
+          15.49587621
+        ]
+      },
+      "properties": {
+        "Name": "Chimbel",
+        "Phone 1": 2449790,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89017752,
+          15.55129593
+        ]
+      },
+      "properties": {
+        "Name": "Chodan-Madel",
+        "Phone 1": 2239340,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93647891,
+          15.4889796
+        ]
+      },
+      "properties": {
+        "Name": "Corlim",
+        "Phone 1": 2285855,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94849158,
+          15.51354397
+        ]
+      },
+      "properties": {
+        "Name": "Cumbharjua",
+        "Phone 1": 2287004,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87277788,
+          15.45841412
+        ]
+      },
+      "properties": {
+        "Name": "Curca-Bambolim-Talaulim",
+        "Phone 1": 2218565,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00738879,
+          15.53040046
+        ]
+      },
+      "properties": {
+        "Name": "Golti-Naveli",
+        "Phone 1": 2280078,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85329581,
+          15.48556338
+        ]
+      },
+      "properties": {
+        "Name": "Merces",
+        "Phone 1": 2448058,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91739986,
+          15.44308999
+        ]
+      },
+      "properties": {
+        "Name": "Neura",
+        "Phone 1": 2208161,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84635464,
+          15.47635668
+        ]
+      },
+      "properties": {
+        "Name": "St. Cruz",
+        "Phone 1": 2448769,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86496945,
+          15.44322615
+        ]
+      },
+      "properties": {
+        "Name": "Siridao-Pale",
+        "Phone 1": 2218505,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88056828,
+          15.44418093
+        ]
+      },
+      "properties": {
+        "Name": "St. Andre(Goa Velha)",
+        "Phone 1": 2218579,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94875509,
+          15.5315976
+        ]
+      },
+      "properties": {
+        "Name": "St. Estevam",
+        "Phone 1": 2287003,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89836743,
+          15.4263801
+        ]
+      },
+      "properties": {
+        "Name": "St. Lawrence(Agassaim)",
+        "Phone 1": 2218519,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91255257,
+          15.52967548
+        ]
+      },
+      "properties": {
+        "Name": "Sao Matias",
+        "Phone 1": 2280079,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.90944758,
+          15.50080559
+        ]
+      },
+      "properties": {
+        "Name": "Se Old Goa",
+        "Phone 1": 2285734,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81980077,
+          15.47002281
+        ]
+      },
+      "properties": {
+        "Name": "Taliegao",
+        "Phone 1": 2465354,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.13012357,
+          15.52997054
+        ]
+      },
+      "properties": {
+        "Name": "Bhirondem",
+        "Phone 1": 2382169,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.14337405,
+          15.48213655
+        ]
+      },
+      "properties": {
+        "Name": "Cotorem",
+        "Phone 1": 2378108,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.14143128,
+          15.60619679
+        ]
+      },
+      "properties": {
+        "Name": "Dongurli-Thane",
+        "Phone 1": 2379274,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10894826,
+          15.47429103
+        ]
+      },
+      "properties": {
+        "Name": "Guleli",
+        "Phone 1": 2378493,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04616936,
+          15.55083533
+        ]
+      },
+      "properties": {
+        "Name": "Honda",
+        "Phone 1": 2370222,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1182989,
+          15.54548826
+        ]
+      },
+      "properties": {
+        "Name": "Mauxi",
+        "Phone 1": 2374279,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.03922064,
+          15.59282107
+        ]
+      },
+      "properties": {
+        "Name": "Morlem",
+        "Phone 1": 2368382,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.16009825,
+          15.55705717
+        ]
+      },
+      "properties": {
+        "Name": "Nagargao",
+        "Phone 1": 2374258,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07048087,
+          15.52904343
+        ]
+      },
+      "properties": {
+        "Name": "Pissurlem",
+        "Phone 1": 2352089,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02833247,
+          15.58719748
+        ]
+      },
+      "properties": {
+        "Name": "Poriem",
+        "Phone 1": 6410375,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99967743,
+          15.45962034
+        ]
+      },
+      "properties": {
+        "Name": "Querim",
+        "Phone 1": 2369277,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.17984701,
+          15.28129918
+        ]
+      },
+      "properties": {
+        "Name": "Sanvordem",
+        "Phone 1": 2358151,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87427272,
+          15.58896108
+        ]
+      },
+      "properties": {
+        "Name": "Aldona",
+        "Phone 1": 2293242,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.75103426,
+          15.58931544
+        ]
+      },
+      "properties": {
+        "Name": "Anjuna-Caisua",
+        "Phone 1": 2273246,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76543587,
+          15.55123049
+        ]
+      },
+      "properties": {
+        "Name": "Arpora-Nagoa",
+        "Phone 1": 2277147,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76828739,
+          15.59976175
+        ]
+      },
+      "properties": {
+        "Name": "Assagao",
+        "Phone 1": 2268218,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9020997,
+          15.61842882
+        ]
+      },
+      "properties": {
+        "Name": "Assonora",
+        "Phone 1": 2215263,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82183325,
+          15.58213874
+        ]
+      },
+      "properties": {
+        "Name": "Bastora",
+        "Phone 1": 2260003,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76554204,
+          15.54363688
+        ]
+      },
+      "properties": {
+        "Name": "Calangute",
+        "Phone 1": 2276016,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80209498,
+          15.64407321
+        ]
+      },
+      "properties": {
+        "Name": "Camurlim",
+        "Phone 1": 2212171,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76768441,
+          15.51858042
+        ]
+      },
+      "properties": {
+        "Name": "Candolim",
+        "Phone 1": 2489061,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83645877,
+          15.64480262
+        ]
+      },
+      "properties": {
+        "Name": "Colvale",
+        "Phone 1": 2299817,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80447369,
+          15.57057448
+        ]
+      },
+      "properties": {
+        "Name": "Guirim",
+        "Phone 1": 2263565,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83870167,
+          15.59486387
+        ]
+      },
+      "properties": {
+        "Name": "Moira",
+        "Phone 1": 2470344,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85527559,
+          15.591583
+        ]
+      },
+      "properties": {
+        "Name": "Nachinola",
+        "Phone 1": 2293500,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86080136,
+          15.67135986
+        ]
+      },
+      "properties": {
+        "Name": "Nadora",
+        "Phone 1": 2211189,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78298811,
+          15.51017326
+        ]
+      },
+      "properties": {
+        "Name": "Nerul",
+        "Phone 1": 2401979,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77115251,
+          15.63416583
+        ]
+      },
+      "properties": {
+        "Name": "Oxel",
+        "Phone 1": 2272272,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79369281,
+          15.57398667
+        ]
+      },
+      "properties": {
+        "Name": "Parra",
+        "Phone 1": 2472089,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84677179,
+          15.51937183
+        ]
+      },
+      "properties": {
+        "Name": "Penha-de France",
+        "Phone 1": 2417822,
+        "Phone 2": 2417213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80551464,
+          15.51966792
+        ]
+      },
+      "properties": {
+        "Name": "Pilerne-Marra",
+        "Phone 1": 2407466,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88161173,
+          15.66870442
+        ]
+      },
+      "properties": {
+        "Name": "Pirna",
+        "Phone 1": 2210101,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86457804,
+          15.56160793
+        ]
+      },
+      "properties": {
+        "Name": "Pomburpa-Olaulim",
+        "Phone 1": 2295244,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80974518,
+          15.50756085
+        ]
+      },
+      "properties": {
+        "Name": "Reis-Magos",
+        "Phone 1": 2402332,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85071188,
+          15.65143054
+        ]
+      },
+      "properties": {
+        "Name": "Revora",
+        "Phone 1": 2299501,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78933688,
+          15.54732972
+        ]
+      },
+      "properties": {
+        "Name": "Saligao",
+        "Phone 1": 2278374,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85731848,
+          15.53181096
+        ]
+      },
+      "properties": {
+        "Name": "Salvador do Mundo",
+        "Phone 1": 2417821,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81051529,
+          15.54285812
+        ]
+      },
+      "properties": {
+        "Name": "Sangolda",
+        "Phone 1": 2417823,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76846037,
+          15.61985958
+        ]
+      },
+      "properties": {
+        "Name": "Siolim-Marna",
+        "Phone 1": 2272205,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79555092,
+          15.62114862
+        ]
+      },
+      "properties": {
+        "Name": "Siolim-Sodiem",
+        "Phone 1": 2272278,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87962756,
+          15.62448415
+        ]
+      },
+      "properties": {
+        "Name": "Sirsaim",
+        "Phone 1": 2298339,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82330545,
+          15.54621292
+        ]
+      },
+      "properties": {
+        "Name": "Socorro",
+        "Phone 1": 2417304,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85604141,
+          15.62272681
+        ]
+      },
+      "properties": {
+        "Name": "Tivim",
+        "Phone 1": 2298595,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83174487,
+          15.57852052
+        ]
+      },
+      "properties": {
+        "Name": "Ucassaim-Paliem-Punola",
+        "Phone 1": 2261825,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79215372,
+          15.58149381
+        ]
+      },
+      "properties": {
+        "Name": "Verla Canca",
+        "Phone 1": 2472009,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98476229,
+          15.40435017
+        ]
+      },
+      "properties": {
+        "Name": "Bandora",
+        "Phone 1": 2335102,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04439725,
+          15.38707103
+        ]
+      },
+      "properties": {
+        "Name": "Betora-Nirankal",
+        "Phone 1": 2330030,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97376533,
+          15.51449779
+        ]
+      },
+      "properties": {
+        "Name": "Betqui-Candola",
+        "Phone 1": 2287860,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96243043,
+          15.4779087
+        ]
+      },
+      "properties": {
+        "Name": "Bhoma-Adcolna",
+        "Phone 1": 2395216,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00326007,
+          15.36744049
+        ]
+      },
+      "properties": {
+        "Name": "Borim",
+        "Phone 1": 2333233,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95422225,
+          15.44921713
+        ]
+      },
+      "properties": {
+        "Name": "Cundaim",
+        "Phone 1": 2395344,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04629433,
+          15.42561533
+        ]
+      },
+      "properties": {
+        "Name": "Curti-Khandepar",
+        "Phone 1": 2313103,
+        "Phone 2": 2345010
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97503924,
+          15.37145737
+        ]
+      },
+      "properties": {
+        "Name": "Durbhat",
+        "Phone 1": 2325053,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94980202,
+          15.42247123
+        ]
+      },
+      "properties": {
+        "Name": "Marcaim",
+        "Phone 1": 2392256,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08094937,
+          15.28501608
+        ]
+      },
+      "properties": {
+        "Name": "Panchawadi",
+        "Phone 1": 2309680,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99426392,
+          15.3899969
+        ]
+      },
+      "properties": {
+        "Name": "Queula",
+        "Phone 1": 2313176,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.69508315,
+          15.71780812
+        ]
+      },
+      "properties": {
+        "Name": "Querim",
+        "Phone 1": 2340362,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02925343,
+          15.31947605
+        ]
+      },
+      "properties": {
+        "Name": "Shiroda",
+        "Phone 1": 2306230,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96103924,
+          15.51481469
+        ]
+      },
+      "properties": {
+        "Name": "Tivre-Orgao",
+        "Phone 1": 2287734,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06523105,
+          15.44185653
+        ]
+      },
+      "properties": {
+        "Name": "Usgao-Ganjem",
+        "Phone 1": 2344213,
+        "Phone 2": 2345139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9782374,
+          15.4399358
+        ]
+      },
+      "properties": {
+        "Name": "Veling-Priol-Cuncoliem",
+        "Phone 1": 2343409,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01765289,
+          15.48359939
+        ]
+      },
+      "properties": {
+        "Name": "Verem-Vaghurme",
+        "Phone 1": 2340234,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01330251,
+          15.49458335
+        ]
+      },
+      "properties": {
+        "Name": "Volvoi",
+        "Phone 1": 2340810,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97594838,
+          15.37620533
+        ]
+      },
+      "properties": {
+        "Name": "Wadi-Talaulim",
+        "Phone 1": 2325047,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.20618807,
+          15.33937182
+        ]
+      },
+      "properties": {
+        "Name": "Collem",
+        "Phone 1": 2600245,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12207023,
+          15.39169219
+        ]
+      },
+      "properties": {
+        "Name": "Dharbandora",
+        "Phone 1": 2614080,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.11209121,
+          15.33264923
+        ]
+      },
+      "properties": {
+        "Name": "Kirlapal-Dabal",
+        "Phone 1": 2618267,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22641131,
+          15.37576132
+        ]
+      },
+      "properties": {
+        "Name": "Mollem",
+        "Phone 1": 2612235,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.17199549,
+          15.41014546
+        ]
+      },
+      "properties": {
+        "Name": "Sancordem",
+        "Phone 1": 2611120,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12848945,
+          15.18666112
+        ]
+      },
+      "properties": {
+        "Name": "Bhati",
+        "Phone 1": 2607337,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.18363845,
+          15.29035592
+        ]
+      },
+      "properties": {
+        "Name": "Kalay",
+        "Phone 1": 2601204,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.20825104,
+          15.12966179
+        ]
+      },
+      "properties": {
+        "Name": "Curdi-Vadem",
+        "Phone 1": 2609243,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.21592846,
+          15.09460059
+        ]
+      },
+      "properties": {
+        "Name": "Neturlim",
+        "Phone 1": 2608227,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.10770933,
+          15.16647986
+        ]
+      },
+      "properties": {
+        "Name": "Rivona",
+        "Phone 1": 2602227,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.11415144,
+          15.26897033
+        ]
+      },
+      "properties": {
+        "Name": "Sanvordem",
+        "Phone 1": 2605176,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.17142429,
+          15.22466827
+        ]
+      },
+      "properties": {
+        "Name": "Uguem",
+        "Phone 1": 2604213,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.05544891,
+          15.19404507
+        ]
+      },
+      "properties": {
+        "Name": "Ambaulim",
+        "Phone 1": 2662270,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06819228,
+          15.25836901
+        ]
+      },
+      "properties": {
+        "Name": "Assolda",
+        "Phone 1": 2757770,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.05112972,
+          15.23510547
+        ]
+      },
+      "properties": {
+        "Name": "Avedem-Cothombi-Chaifi",
+        "Phone 1": 2663160,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04745835,
+          15.16326654
+        ]
+      },
+      "properties": {
+        "Name": "Balli-Adnem",
+        "Phone 1": 2670210,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01237313,
+          15.09267183
+        ]
+      },
+      "properties": {
+        "Name": "Barcem-Quedem",
+        "Phone 1": 2673034,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00056551,
+          15.11476362
+        ]
+      },
+      "properties": {
+        "Name": "Caurem-Pirla",
+        "Phone 1": 3223457,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9985081,
+          15.14367955
+        ]
+      },
+      "properties": {
+        "Name": "Fatorpa-Quitol",
+        "Phone 1": 2955331,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12779644,
+          15.18658803
+        ]
+      },
+      "properties": {
+        "Name": "Molcornem",
+        "Phone 1": 2678230,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98491094,
+          15.11279261
+        ]
+      },
+      "properties": {
+        "Name": "Morpirla",
+        "Phone 1": 2670452,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95478137,
+          15.13552608
+        ]
+      },
+      "properties": {
+        "Name": "Naqueri-Betul",
+        "Phone 1": 2676135,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07498319,
+          15.27972849
+        ]
+      },
+      "properties": {
+        "Name": "Xeldem",
+        "Phone 1": 2662230,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.99812589,
+          15.0504019
+        ]
+      },
+      "properties": {
+        "Name": "Agonda",
+        "Phone 1": 2647357,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96794727,
+          15.07260504
+        ]
+      },
+      "properties": {
+        "Name": "Cola",
+        "Phone 1": 2647213,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.16552815,
+          15.00751288
+        ]
+      },
+      "properties": {
+        "Name": "Cotigao",
+        "Phone 1": 2639166,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.12068431,
+          15.03425621
+        ]
+      },
+      "properties": {
+        "Name": "Gaondongrem",
+        "Phone 1": 2649385,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06916587,
+          14.94236704
+        ]
+      },
+      "properties": {
+        "Name": "Loliem-Polem",
+        "Phone 1": 2640247,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.08929835,
+          14.97178794
+        ]
+      },
+      "properties": {
+        "Name": "Poinguinim",
+        "Phone 1": 2641205,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.07138698,
+          15.00886971
+        ]
+      },
+      "properties": {
+        "Name": "Shristhal",
+        "Phone 1": 2633380,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97738257,
+          15.16762142
+        ]
+      },
+      "properties": {
+        "Name": "Ambelim",
+        "Phone 1": 2773232,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94703937,
+          15.18630633
+        ]
+      },
+      "properties": {
+        "Name": "Assolna",
+        "Phone 1": 2773278,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97924068,
+          15.25965085
+        ]
+      },
+      "properties": {
+        "Name": "Aquem-Baixo",
+        "Phone 1": 2766343,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9196909,
+          15.30102914
+        ]
+      },
+      "properties": {
+        "Name": "Betalbatim",
+        "Phone 1": 2880036,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.80209811,
+          15.6440675
+        ]
+      },
+      "properties": {
+        "Name": "Camurlim",
+        "Phone 1": 2777019,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93104993,
+          15.25880022
+        ]
+      },
+      "properties": {
+        "Name": "Cana-Benaulim",
+        "Phone 1": 2770164,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95148944,
+          15.2034831
+        ]
+      },
+      "properties": {
+        "Name": "Carmona",
+        "Phone 1": 2744692,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94703858,
+          15.18630817
+        ]
+      },
+      "properties": {
+        "Name": "Cavelossim",
+        "Phone 1": 2871521,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04443789,
+          15.2609333
+        ]
+      },
+      "properties": {
+        "Name": "Chnador-Cavorim",
+        "Phone 1": 2784250,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97736706,
+          15.21055609
+        ]
+      },
+      "properties": {
+        "Name": "Chinchinim",
+        "Phone 1": 2863283,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92240352,
+          15.27903344
+        ]
+      },
+      "properties": {
+        "Name": "Colva",
+        "Phone 1": 2788485,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.02170626,
+          15.2882053
+        ]
+      },
+      "properties": {
+        "Name": "Curtorim",
+        "Phone 1": 2786283,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98728033,
+          15.26987443
+        ]
+      },
+      "properties": {
+        "Name": "Davorlim-Dicarpale",
+        "Phone 1": 2753084,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98140412,
+          15.23836102
+        ]
+      },
+      "properties": {
+        "Name": "Dramapur-Sirlim",
+        "Phone 1": 2765060,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.04869089,
+          15.26810305
+        ]
+      },
+      "properties": {
+        "Name": "Guirdolim",
+        "Phone 1": 2784235,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98384482,
+          15.34190865
+        ]
+      },
+      "properties": {
+        "Name": "Loutulim",
+        "Phone 1": 2777018,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.05660281,
+          15.28953263
+        ]
+      },
+      "properties": {
+        "Name": "Macasana",
+        "Phone 1": 2786269,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96640681,
+          15.25490689
+        ]
+      },
+      "properties": {
+        "Name": "Navelim",
+        "Phone 1": 2726404,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9451708,
+          15.30735879
+        ]
+      },
+      "properties": {
+        "Name": "Nuvem",
+        "Phone 1": 2790103,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95005203,
+          15.21675126
+        ]
+      },
+      "properties": {
+        "Name": "Orlim",
+        "Phone 1": 2745020,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.06914981,
+          15.20741439
+        ]
+      },
+      "properties": {
+        "Name": "Paroda",
+        "Phone 1": 2869511,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.01035313,
+          15.30886519
+        ]
+      },
+      "properties": {
+        "Name": "Rachol",
+        "Phone 1": 2776020,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98486083,
+          15.31552684
+        ]
+      },
+      "properties": {
+        "Name": "Raia",
+        "Phone 1": 2776183,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98292562,
+          15.27533572
+        ]
+      },
+      "properties": {
+        "Name": "Rumadamol-Davorlim",
+        "Phone 1": 2752015,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.00691973,
+          15.25891117
+        ]
+      },
+      "properties": {
+        "Name": " Sao Jose De Areal",
+        "Phone 1": 2860372,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9954144,
+          15.22137128
+        ]
+      },
+      "properties": {
+        "Name": "Sarzora",
+        "Phone 1": 2864097,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94045935,
+          15.28875408
+        ]
+      },
+      "properties": {
+        "Name": "Seraulim",
+        "Phone 1": 2788765,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97594632,
+          15.37619713
+        ]
+      },
+      "properties": {
+        "Name": "Telaulim",
+        "Phone 1": 2726403,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94303184,
+          15.23157455
+        ]
+      },
+      "properties": {
+        "Name": "Varca",
+        "Phone 1": 2745057,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.97550433,
+          15.16591509
+        ]
+      },
+      "properties": {
+        "Name": "Velim",
+        "Phone 1": 2773231,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89798754,
+          15.34541998
+        ]
+      },
+      "properties": {
+        "Name": "Cansaulim-Arossim-Cuelim",
+        "Phone 1": null,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84429179,
+          15.39843112
+        ]
+      },
+      "properties": {
+        "Name": "Chicalim",
+        "Phone 1": 2754048,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83708468,
+          15.37049464
+        ]
+      },
+      "properties": {
+        "Name": "Chicolna",
+        "Phone 1": 2540226,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91444479,
+          15.39738913
+        ]
+      },
+      "properties": {
+        "Name": "Cortalim",
+        "Phone 1": 2538952,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92105976,
+          15.31392452
+        ]
+      },
+      "properties": {
+        "Name": "Majorda-Utorda-Calata",
+        "Phone 1": 2550247,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92700206,
+          15.35571069
+        ]
+      },
+      "properties": {
+        "Name": "Nagoa",
+        "Phone 1": 2881435,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.90038561,
+          15.38637106
+        ]
+      },
+      "properties": {
+        "Name": "Sancoale",
+        "Phone 1": 2783736,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89038474,
+          15.35453467
+        ]
+      },
+      "properties": {
+        "Name": "Velsao-Pale-Issorcim",
+        "Phone 1": 2550221,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.94700823,
+          15.36646267
+        ]
+      },
+      "properties": {
+        "Name": "Verna",
+        "Phone 1": 2754066,
+        "Phone 2": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93981462,
+          15.38489412
+        ]
+      },
+      "properties": {
+        "Name": "Quelossim",
+        "Phone 1": null,
+        "Phone 2": null
+      }
+    }
+  ]
 }
