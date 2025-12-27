@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -86,11 +86,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Anjuna",
+        "Name": "Suraj H. Gawas",
+        "Mobile": 7875756027,
+        "Contact No": "0832-2273233",
+        "Email": "pianjuna@goapolice.gov.in"
       }
     },
     {
@@ -120,11 +120,11 @@
         ]
       },
       "properties": {
-        "Station": "Colvale",
-        "Name": "Sanjit B. Kandolkar",
-        "Mobile": 7875756234,
-        "Contact No": "0832-2993234",
-        "Email": "picolvale@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -134,23 +134,6 @@
         "coordinates": [
           73.834477,
           15.517525
-        ]
-      },
-      "properties": {
-        "Station": "Porvorim",
-        "Name": "Rahul Parab",
-        "Mobile": 7875756030,
-        "Contact No": "0832-2417704",
-        "Email": "piporvorim@goapolice.gov.in"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.779682,
-          15.543124
         ]
       },
       "properties": {
@@ -166,16 +149,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          73.779682,
+          15.543124
+        ]
+      },
+      "properties": {
+        "Station": "Calangute",
+        "Name": "Paresh G. Naik",
+        "Mobile": 7875756031,
+        "Contact No": "0832-2278284",
+        "Email": "picalangute@goapolice.gov.in"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           73.792954,
           15.535516
         ]
       },
       "properties": {
-        "Station": "Saligao",
-        "Name": "Milind M. Bhuimbar",
-        "Mobile": 7875756078,
-        "Contact No": "0832-2278100",
-        "Email": "pisaligao@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -205,11 +205,11 @@
         ]
       },
       "properties": {
-        "Station": "Valpoi",
-        "Name": "Videsh P. Shirdokar",
-        "Mobile": 7875756034,
-        "Contact No": "0832-2374255",
-        "Email": "pivalpoi@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -273,11 +273,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Colva",
+        "Name": "Vikram Naik",
+        "Mobile": 7875756040,
+        "Contact No": "0832-2788396",
+        "Email": "pi-colva@goapolice.gov.in"
       }
     },
     {
@@ -341,11 +341,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Sanguem",
+        "Name": "Ditendra Naik",
+        "Mobile": 7875756046,
+        "Contact No": "0832-2604233",
+        "Email": "pi-sanguem@goapolice.gov.in"
       }
     },
     {
@@ -409,11 +409,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco Railway",
-        "Name": "Amarnath Passi",
-        "Mobile": 7875756052,
-        "Contact No": "0832-2512488",
-        "Email": "pivascorailway@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
