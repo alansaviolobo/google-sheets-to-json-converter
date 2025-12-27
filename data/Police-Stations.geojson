@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": "Panaji",
-        "Name": "Vijaykumar S. Chodankar",
-        "Mobile": 7875756022,
-        "Contact No": "0832-2428482, Ext-311",
-        "Email": "pipanaji@goapolice.gov.in"
+        "Station": null,
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -103,11 +103,11 @@
         ]
       },
       "properties": {
-        "Station": "Pernem",
-        "Name": "Sachin Lokre",
-        "Mobile": 7875756028,
-        "Contact No": "0832-2201233",
-        "Email": "pipernem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -324,11 +324,11 @@
         ]
       },
       "properties": {
-        "Station": "Curchorem",
-        "Name": "Melson Colaco",
-        "Mobile": 7875756045,
-        "Contact No": "0832-2650568",
-        "Email": "pi-curchorem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
