@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Old Goa",
+        "Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in"
       }
     },
     {
@@ -86,11 +86,11 @@
         ]
       },
       "properties": {
-        "Station": "Anjuna",
-        "Name": "Suraj H. Gawas",
-        "Mobile": 7875756027,
-        "Contact No": "0832-2273233",
-        "Email": "pianjuna@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -154,11 +154,11 @@
         ]
       },
       "properties": {
-        "Station": "Calangute",
-        "Name": "Paresh G. Naik",
-        "Mobile": 7875756031,
-        "Contact No": "0832-2278284",
-        "Email": "picalangute@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -290,11 +290,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Cuncolim",
+        "Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in"
       }
     },
     {
@@ -375,11 +375,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco",
-        "Name": "Vaibhav Naik",
-        "Mobile": 7875756049,
-        "Contact No": "0832-2512304",
-        "Email": "pi-vasco@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "Collem",
-        "Name": "Raghoba H. Kamat",
-        "Mobile": 7875756037,
-        "Contact No": "0832-2600233",
-        "Email": "picollem@goapolice.gov.in"
+        "Station": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     }
   ]
