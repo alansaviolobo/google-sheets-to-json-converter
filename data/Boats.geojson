@@ -120,12 +120,12 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Mapusa",
+        "Name": "Shri. Ganesh Govekar",
+        "Mobile": 7391047134,
+        "Mobile2": 9518789090,
+        "Landline": "2262900 2263354/101",
+        "Email": "map-fire.goa@nic.in"
       }
     },
     {
@@ -240,12 +240,12 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "Fire Station Ponda",
-        "Name": "Shri. Sushil Morajkar",
-        "Mobile": 7391047150,
-        "Mobile2": 8308846759,
-        "Landline": "2312044 2315863/101",
-        "Email": "pnd-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -300,12 +300,12 @@
       "properties": {
         "Id": 15,
         "Station": "Verna FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Verna",
+        "Name": "Shri. Dilesh Gaonkar",
+        "Mobile": 7391047148,
+        "Mobile2": 8308846762,
+        "Landline": "2887721/101",
+        "Email": "vrn-fire.goa@nic.in"
       }
     },
     {
