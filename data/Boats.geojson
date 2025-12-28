@@ -20,12 +20,12 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Bicholim",
+        "Name": "Shri. Rahul Dessai",
+        "Mobile": 7391047153,
+        "Mobile2": 8308846752,
+        "Landline": "2362100 2361397/101",
+        "Email": "bic-fire.goa@nic.in"
       }
     },
     {
@@ -40,12 +40,12 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "Fire Station Canacona",
-        "Name": "Shri. Dhiraj Dessai",
-        "Mobile": 7391047145,
-        "Mobile2": 8308846743,
-        "Landline": "2633500 2633311/101",
-        "Email": "can-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -120,12 +120,12 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "Fire Station Mapusa",
-        "Name": "Shri. Ganesh Govekar",
-        "Mobile": 7391047134,
-        "Mobile2": 9518789090,
-        "Landline": "2262900 2263354/101",
-        "Email": "map-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
