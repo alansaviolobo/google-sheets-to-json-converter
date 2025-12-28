@@ -20,12 +20,12 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "Fire Station Bicholim",
-        "Name": "Shri. Rahul Dessai",
-        "Mobile": 7391047153,
-        "Mobile2": 8308846752,
-        "Landline": "2362100 2361397/101",
-        "Email": "bic-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -40,12 +40,12 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "Fire Station Canacona",
-        "Name": "Shri. Dhiraj Dessai",
-        "Mobile": 7391047145,
-        "Mobile2": 8308846743,
-        "Landline": "2633500 2633311/101",
-        "Email": "can-fire.goa@nic.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -140,12 +140,12 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "Fire Station Margao",
-        "Name": "Shri. Herculano Gill Souza",
-        "Mobile": 7391047144,
-        "Mobile2": 9763717057,
-        "Landline": "2714600 2715825/101",
-        "Email": "mrg-fire.goa@gov.in"
+        "Station_1": "Loading...",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null
       }
     },
     {
@@ -240,12 +240,12 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Ponda",
+        "Name": "Shri. Sushil Morajkar",
+        "Mobile": 7391047150,
+        "Mobile2": 8308846759,
+        "Landline": "2312044 2315863/101",
+        "Email": "pnd-fire.goa@gov.in"
       }
     },
     {
