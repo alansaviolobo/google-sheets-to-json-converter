@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -52,11 +52,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Agacaim",
+        "Name": "Anant A. Gaonkar",
+        "Mobile": 7875756023,
+        "Contact No": "0832-2218000",
+        "Email": "piagacaim@goapolice.gov.in"
       }
     },
     {
@@ -86,7 +86,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -120,7 +120,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -188,7 +188,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -273,11 +273,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Colva",
+        "Name": "Vikram Naik",
+        "Mobile": 7875756040,
+        "Contact No": "0832-2788396",
+        "Email": "pi-colva@goapolice.gov.in"
       }
     },
     {
@@ -324,7 +324,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -341,7 +341,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -358,11 +358,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Canacona",
+        "Name": "Harish Raut Dessai",
+        "Mobile": 7875756047,
+        "Contact No": "0832-2633357",
+        "Email": "picanacona@goapolice.gov.in"
       }
     },
     {
@@ -375,7 +375,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -392,7 +392,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
