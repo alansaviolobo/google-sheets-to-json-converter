@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -86,7 +86,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -103,7 +103,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -154,7 +154,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -324,7 +324,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "Name": null,
         "Mobile": null,
         "Contact No": null,
