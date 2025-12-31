@@ -36,7 +36,18 @@ jobs:
 
       - name: Checkout the data branch to save the data.
         run: |
+          echo "Backing up data..."
+          mkdir -p ../data_backup
+          cp -r data/* ../data_backup/
+          
           git checkout data
+          
+          echo "Restoring data..."
+          # Ensure destination exists
+          mkdir -p data
+          # Remove old data to ensure we have a clean state relative to the generation
+          rm -rf data/*
+          cp -r ../data_backup/* data/
 
       - name: Commit and push changes
         run: |
