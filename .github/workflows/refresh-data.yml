@@ -38,23 +38,26 @@ jobs:
         run: |
           echo "Backing up data..."
           mkdir -p ../data_backup
-          cp -r data/* ../data_backup/
+          mv data/* ../data_backup/
           
-          git checkout data
+          echo "Switching to the data branch..."
+          git checkout -b data
+          git branch --set-upstream-to origin/data
+          git pull
           
           echo "Restoring data..."
           # Ensure destination exists
           mkdir -p data
           # Remove old data to ensure we have a clean state relative to the generation
           rm -rf data/*
-          cp -r ../data_backup/* data/
+          cp ../data_backup/* data/
 
       - name: Commit and push changes
         run: |
           if git status -s | grep -q "data/"; then
             git add data/.
             git commit -m "Refresh GoogleSheets data"
-            git push
+            git push --set-upstream origin data
           else
             echo "No changes detected in data files"
           fi
