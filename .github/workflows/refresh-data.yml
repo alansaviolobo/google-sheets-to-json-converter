@@ -41,7 +41,7 @@ jobs:
           # Ensure the source directory exists
           if [ -d "main-branch/data" ]; then
             echo "Data directory found. Copying files..."
-            cp -r main-branch/data/* data-branch/
+            cp -r main-branch/data/* data-branch/data/
           else
             echo "Error: Data directory not found!"
             exit 1

@@ -97,27 +97,23 @@ if (import.meta.url === pathToFileURL(process.argv[1]).href) {
     (async () => {
         try {
             let dataSets = {
-                "807080846": "Fire Stations",
-                "867350358": "Police Stations",
-                "396287298": "Civil Supplies Godowns",
                 "2107086279": "Ambulances",
                 "410764449": "Apada Mitras",
                 "973534772": "Apada Sakhis",
+                "396287298": "Civil Supplies Godowns",
                 "1309860234": "Cyclone Shelters",
                 "36114476": "Dam Levels",
-                "302060060": "Fire Appliances",
+                "807080846": "Fire Stations",
                 "392979524": "Heavy Machinery",
                 "495904604": "Hospitals",
                 "236724982": "MHA Units",
                 "1768104908": "Mutual Aid Agencies",
                 "443003227": "Panchayats",
+                "867350358": "Police Stations",
                 "1689409318": "River Gauges",
                 "1786282296": "Schools",
                 "1929576986": "Tree Cutters",
                 "920360157": "Water Resources",
-                // "0": "Capacity Building",
-                // "0": "High Density Spaces",
-                // "0": "Boats",
             };
 
             for (const key of Object.keys(dataSets)) {
@@ -126,10 +122,9 @@ if (import.meta.url === pathToFileURL(process.argv[1]).href) {
             }
             debugLog('File Caching finished');
 
-            const errors = [];
             for (const key of Object.keys(dataSets)) {
-                errors.push(verifyCleanData(CACHE_DIRECTORY + dataSets[key].replace(/\s/g, '-') + '.csv'));
-                debugLog(`Finished checking ${dataSets[key]}`);
+                const status = verifyCleanData(dataSets[key] + '.csv')
+                debugLog(status ? status : `Finished checking ${dataSets[key]}`);
             }
             debugLog('File Checking finished');
 
