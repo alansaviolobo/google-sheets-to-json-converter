@@ -76,12 +76,13 @@ async function fetchAndCacheData(dataset, url) {
 }
 
 function verifyCleanData(filename) {
-    const data = fs.readFileSync(filename, 'utf8');
+    const filepath = CACHE_DIRECTORY + filename.replace(/\s/g, '-') + '.csv';
+    const data = fs.readFileSync(filepath, 'utf8');
     if (data.includes('#REF!')) {
-        return `#REF! found in ${filename}`;
+        return `#REF! found in ${filepath}`;
     }
     if (data.includes('Loading')) {
-        return `Loading... found in ${filename}`;
+        return `Loading... found in ${filepath}`;
     }
 }
 
