@@ -3,61 +3,61 @@ on:
   schedule:
     - cron: '0 * * * *'   # Run every hour
   workflow_dispatch:      # Allow manual trigger
-  repository_dispatch:
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # Need write permission to update the cached file
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout main branch
+        uses: actions/checkout@v4
         with:
           ref: main
+          path: main-branch
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
+          cache-dependency-path: main-branch/package-lock.json
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Fetch and process API data
-        run: npm start
-
-      - name: Configure Git
+      - name: Install dependencies and generate data
+        working-directory: main-branch
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
+          npm install
+          npm start
 
-      - name: Checkout the data branch to save the data.
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-branch
+
+      - name: Copy generated data to data branch
         run: |
-          echo "Backing up data..."
-          mkdir -p ../data_backup
-          mv data/* ../data_backup/
-          
-          echo "Switching to the data branch..."
-          git checkout -b data
-          git branch --set-upstream-to origin/data
-          git pull
-          
-          echo "Restoring data..."
-          # Ensure destination exists
-          mkdir -p data
-          # Remove old data to ensure we have a clean state relative to the generation
-          rm -rf data/*
-          cp ../data_backup/* data/
+          # Ensure the source directory exists
+          if [ -d "main-branch/data" ]; then
+            echo "Data directory found. Copying files..."
+            cp -r main-branch/data/* data-branch/
+          else
+            echo "Error: Data directory not found!"
+            exit 1
+          fi
 
       - name: Commit and push changes
+        working-directory: data-branch
         run: |
-          if git status -s | grep -q "data/"; then
-            git add data/.
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check for changes
+          if [[ -n $(git status -s) ]]; then
+            git add .
             git commit -m "Refresh GoogleSheets data"
-            git push --set-upstream origin data
+            git push
           else
-            echo "No changes detected in data files"
+            echo "No changes detected."
           fi
