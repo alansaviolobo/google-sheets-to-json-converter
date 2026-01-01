@@ -40,12 +40,12 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Canacona",
+        "Name": "Shri. Dhiraj Dessai",
+        "Mobile": 7391047145,
+        "Mobile2": 8308846743,
+        "Landline": "2633500 2633311/101",
+        "Email": "can-fire.goa@nic.in"
       }
     },
     {
@@ -160,12 +160,12 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Old Goa",
+        "Name": " Shri. R D Parab",
+        "Mobile": 7391047155,
+        "Mobile2": 8408091254,
+        "Landline": 2285344,
+        "Email": "olg-fire.goa@nic.in"
       }
     },
     {
@@ -200,12 +200,12 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Pernem",
+        "Name": "Shri. N. H. Parwar",
+        "Mobile": 7391047133,
+        "Mobile2": 8308846751,
+        "Landline": "2201201/ 2201393/101",
+        "Email": "per-fire.goa@nic.in"
       }
     },
     {
@@ -260,12 +260,12 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Valpoi",
+        "Name": "Shri. Santosh Gawas",
+        "Mobile": 7391047165,
+        "Mobile2": 8308846753,
+        "Landline": "2374444/101",
+        "Email": "vap-fire.goa@nic.in"
       }
     },
     {
@@ -300,12 +300,12 @@
       "properties": {
         "Id": 15,
         "Station": "Verna FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Verna",
+        "Name": "Shri. Dilesh Gaonkar",
+        "Mobile": 7391047148,
+        "Mobile2": 8308846762,
+        "Landline": "2887721/101",
+        "Email": "vrn-fire.goa@nic.in"
       }
     },
     {
