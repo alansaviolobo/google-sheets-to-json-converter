@@ -124,7 +124,7 @@ if (import.meta.url === pathToFileURL(process.argv[1]).href) {
             debugLog('File Caching finished');
 
             for (const key of Object.keys(dataSets)) {
-                const status = verifyCleanData(dataSets[key] + '.csv')
+                const status = verifyCleanData(dataSets[key])
                 debugLog(status ? status : `Finished checking ${dataSets[key]}`);
             }
             debugLog('File Checking finished');
