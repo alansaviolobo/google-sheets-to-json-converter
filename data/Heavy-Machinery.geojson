@@ -13,8 +13,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          73.817053,
+          15.48716
         ]
       },
       "properties": {
@@ -30,8 +30,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
+          73.817925,
+          15.486575
         ]
       },
       "properties": {
@@ -47,25 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "Vehicle No": null,
-        "Vehicle Type": null,
-        "Name": null,
-        "Mobile": null,
-        "Address": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
+          73.81467,
+          15.485106
         ]
       },
       "properties": {
@@ -120,45 +103,11 @@
         ]
       },
       "properties": {
-        "Vehicle No": null,
-        "Vehicle Type": null,
-        "Name": null,
-        "Mobile": null,
-        "Address": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
         "Vehicle No": "GA07N4260",
         "Vehicle Type": "Construction Equipment Vehicle",
         "Name": "Mayur Infra Construction Pvt. Ltd.",
         "Mobile": 9764253357,
         "Address": "H. No. E-170/103 Four Seasons Perola, Bainguinim Old Goa Tiswadi, North Goa 403402"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          null,
-          null
-        ]
-      },
-      "properties": {
-        "Vehicle No": null,
-        "Vehicle Type": null,
-        "Name": null,
-        "Mobile": null,
-        "Address": null
       }
     },
     {
