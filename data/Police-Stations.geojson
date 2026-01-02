@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Panaji",
+        "Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in"
       }
     },
     {
@@ -290,11 +290,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Cuncolim",
+        "Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in"
       }
     },
     {
@@ -375,11 +375,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Vasco",
+        "Name": "Vaibhav Naik",
+        "Mobile": 7875756049,
+        "Contact No": "0832-2512304",
+        "Email": "pi-vasco@goapolice.gov.in"
       }
     },
     {
@@ -460,11 +460,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Collem",
+        "Name": "Raghoba H. Kamat",
+        "Mobile": 7875756037,
+        "Contact No": "0832-2600233",
+        "Email": "picollem@goapolice.gov.in"
       }
     }
   ]

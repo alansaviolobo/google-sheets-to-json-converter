@@ -120,12 +120,12 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Mapusa",
+        "Name": "Shri. Ganesh Govekar",
+        "Mobile": 7391047134,
+        "Mobile2": 9518789090,
+        "Landline": "2262900 2263354/101",
+        "Email": "map-fire.goa@nic.in"
       }
     },
     {
@@ -160,12 +160,12 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null
+        "Station_1": "Fire Station Old Goa",
+        "Name": " Shri. R D Parab",
+        "Mobile": 7391047155,
+        "Mobile2": 8408091254,
+        "Landline": 2285344,
+        "Email": "olg-fire.goa@nic.in"
       }
     },
     {
