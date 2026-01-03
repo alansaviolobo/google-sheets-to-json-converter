@@ -100,11 +100,12 @@ if (import.meta.url === pathToFileURL(process.argv[1]).href) {
             let dataSets = {
                 "2107086279": "Ambulances",
                 "410764449": "Apada Mitras",
-                "973534772": "Apada Sakhis",
+                "1227945584": "Capacity Building",
                 "396287298": "Civil Supplies Godowns",
                 "1309860234": "Cyclone Shelters",
                 "36114476": "Dam Levels",
                 "807080846": "Fire Stations",
+                "178371532": "HAM Radio Operators",
                 "392979524": "Heavy Machinery",
                 "495904604": "Hospitals",
                 "236724982": "MHA Units",
