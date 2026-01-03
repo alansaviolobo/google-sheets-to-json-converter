@@ -18,16 +18,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "tillari",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 64,
+        "Full level (m)": 113.2,
+        "Max storage (Ha.m.)": 46217,
+        "Current Level (m)": 106.56,
+        "Current Storage (Ha.m.)": 36127.9,
+        "Discharge (cumecs)": 0,
+        "Percent_Full": 78,
+        "Name": "Tillari Dam"
       }
     },
     {
@@ -40,16 +40,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "selaulim",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 20.42,
+        "Full level (m)": 41.15,
+        "Max storage (Ha.m.)": 23436,
+        "Current Level (m)": 40.36,
+        "Current Storage (Ha.m.)": 21915.4,
+        "Discharge (cumecs)": 7,
+        "Percent_Full": 94,
+        "Name": "Selaulim Dam"
       }
     },
     {
@@ -62,16 +62,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "anjunem",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 61.5,
+        "Full level (m)": 93.2,
+        "Max storage (Ha.m.)": 4483,
+        "Current Level (m)": 90.5,
+        "Current Storage (Ha.m.)": 3825,
+        "Discharge (cumecs)": 1.75,
+        "Percent_Full": 85,
+        "Name": "Anjunem Dam"
       }
     },
     {
@@ -84,16 +84,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "chapoli",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 22,
+        "Full level (m)": 38.75,
+        "Max storage (Ha.m.)": 1122,
+        "Current Level (m)": 37.32,
+        "Current Storage (Ha.m.)": 984.22,
+        "Discharge (cumecs)": 0,
+        "Percent_Full": 88,
+        "Name": "Chapoli Dam"
       }
     },
     {
@@ -106,16 +106,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "amthane",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 29,
+        "Full level (m)": 50.03,
+        "Max storage (Ha.m.)": 585,
+        "Current Level (m)": 49.23,
+        "Current Storage (Ha.m.)": 524.7,
+        "Discharge (cumecs)": 0,
+        "Percent_Full": 90,
+        "Name": "Amthane Dam"
       }
     },
     {
@@ -128,16 +128,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "panchawadi",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 14.7,
+        "Full level (m)": 26,
+        "Max storage (Ha.m.)": 436.8,
+        "Current Level (m)": 24.83,
+        "Current Storage (Ha.m.)": 348.62,
+        "Discharge (cumecs)": 0,
+        "Percent_Full": 80,
+        "Name": "Panchawadi Dam"
       }
     },
     {
@@ -150,16 +150,16 @@
         ]
       },
       "properties": {
-        "Loading...": null,
-        "": null,
-        "_1": null,
-        "_2": null,
-        "_3": null,
-        "_4": null,
-        "_5": null,
-        "_6": null,
-        "Percent_Full": "#DIV/0!",
-        "Name": " Dam"
+        "": "gaunem",
+        "Date": "*18 hours 45 min* ago",
+        "Dead level (m)": 46,
+        "Full level (m)": 63.5,
+        "Max storage (Ha.m.)": 177,
+        "Current Level (m)": 62.13,
+        "Current Storage (Ha.m.)": 150.86,
+        "Discharge (cumecs)": 0,
+        "Percent_Full": 85,
+        "Name": "Gaunem Dam"
       }
     }
   ]
