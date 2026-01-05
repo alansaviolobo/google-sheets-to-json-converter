@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": "Old Goa",
-        "Name": "Satish V. Padwalkar",
-        "Mobile": 7875756024,
-        "Contact No": "0832-2285301",
-        "Email": "pioldgoa@goapolice.gov.in"
+        "Station": null,
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -188,11 +188,11 @@
         ]
       },
       "properties": {
-        "Station": "Bicholim",
-        "Name": "Vijay Rane Sardesai",
-        "Mobile": 7875756033,
-        "Contact No": "0832-2362233",
-        "Email": "pibicholim@goapolice.gov.in"
+        "Station": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
