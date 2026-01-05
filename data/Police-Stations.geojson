@@ -35,11 +35,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Old Goa",
+        "Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in"
       }
     },
     {
@@ -188,11 +188,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null
+        "Station": "Bicholim",
+        "Name": "Vijay Rane Sardesai",
+        "Mobile": 7875756033,
+        "Contact No": "0832-2362233",
+        "Email": "pibicholim@goapolice.gov.in"
       }
     },
     {
@@ -307,11 +307,11 @@
         ]
       },
       "properties": {
-        "Station": "Quepem",
-        "Name": "Arjun Sangodkar",
-        "Mobile": 7875756044,
-        "Contact No": "0832-2662253",
-        "Email": "pi-quepem@goapolice.gov.in"
+        "Station": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
@@ -443,11 +443,11 @@
         ]
       },
       "properties": {
-        "Station": "Ponda",
-        "Name": "Vijaynath A. Kavlekar",
-        "Mobile": 7875756036,
-        "Contact No": "0832-2313101",
-        "Email": "piponda@goapolice.gov.in"
+        "Station": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null
       }
     },
     {
