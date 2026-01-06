@@ -19,7 +19,7 @@
       },
       "properties": {
         "": "tillari",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 64,
         "Full level (m)": 113.2,
         "Max storage (Ha.m.)": 46217,
@@ -27,7 +27,12 @@
         "Current Storage (Ha.m.)": 35504.4,
         "Discharge (cumecs)": 0,
         "Percent_Full": 77,
-        "Name": "Tillari Dam"
+        "Name": "Tillari Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     },
     {
@@ -41,7 +46,7 @@
       },
       "properties": {
         "": "selaulim",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 20.42,
         "Full level (m)": 41.15,
         "Max storage (Ha.m.)": 23436,
@@ -49,7 +54,12 @@
         "Current Storage (Ha.m.)": 21624,
         "Discharge (cumecs)": 8,
         "Percent_Full": 92,
-        "Name": "Selaulim Dam"
+        "Name": "Selaulim Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     },
     {
@@ -63,7 +73,7 @@
       },
       "properties": {
         "": "anjunem",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 61.5,
         "Full level (m)": 93.2,
         "Max storage (Ha.m.)": 4483,
@@ -71,7 +81,12 @@
         "Current Storage (Ha.m.)": 3725.5,
         "Discharge (cumecs)": 2.3,
         "Percent_Full": 83,
-        "Name": "Anjunem Dam"
+        "Name": "Anjunem Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     },
     {
@@ -85,7 +100,7 @@
       },
       "properties": {
         "": "chapoli",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 22,
         "Full level (m)": 38.75,
         "Max storage (Ha.m.)": 1122,
@@ -93,7 +108,12 @@
         "Current Storage (Ha.m.)": 974.72,
         "Discharge (cumecs)": 0,
         "Percent_Full": 87,
-        "Name": "Chapoli Dam"
+        "Name": "Chapoli Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     },
     {
@@ -107,7 +127,7 @@
       },
       "properties": {
         "": "amthane",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 29,
         "Full level (m)": 50.03,
         "Max storage (Ha.m.)": 585,
@@ -115,7 +135,12 @@
         "Current Storage (Ha.m.)": 520.4,
         "Discharge (cumecs)": 0,
         "Percent_Full": 89,
-        "Name": "Amthane Dam"
+        "Name": "Amthane Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     },
     {
@@ -129,7 +154,7 @@
       },
       "properties": {
         "": "panchawadi",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 14.7,
         "Full level (m)": 26,
         "Max storage (Ha.m.)": 436.8,
@@ -137,7 +162,12 @@
         "Current Storage (Ha.m.)": 347.42,
         "Discharge (cumecs)": 0,
         "Percent_Full": 80,
-        "Name": "Panchawadi Dam"
+        "Name": "Panchawadi Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     },
     {
@@ -151,7 +181,7 @@
       },
       "properties": {
         "": "gaunem",
-        "Date": "*1 day 2 hours* ago",
+        "Date": "*1 day 5 hours* ago",
         "Dead level (m)": 46,
         "Full level (m)": 63.5,
         "Max storage (Ha.m.)": 177,
@@ -159,7 +189,12 @@
         "Current Storage (Ha.m.)": 150.35,
         "Discharge (cumecs)": 0,
         "Percent_Full": 85,
-        "Name": "Gaunem Dam"
+        "Name": "Gaunem Dam",
+        "River": null,
+        "District": null,
+        "Spillway Status": "Open",
+        "Alert Level": "Normal",
+        "Last Updated": null
       }
     }
   ]
