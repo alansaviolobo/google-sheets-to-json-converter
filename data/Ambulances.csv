@@ -1,38 +1,38 @@
 Latitude,Longitude,Type,Hospital,Address,Contact,Vehicle_No
-15.577752,73.862570,DHS,"Primary Health Centre, Aldona",,,GA 01 G 7646
-15.497947,73.826381,DHS,Urban Health Centre Panjim,,,GA 01 G 7661
-15.280073,73.965699,DHS,TB Hospital Margoa ,,,GA 07 G 0757
-15.489778,73.936963,DHS,"Primary Health Centre, Corlim",,,GA 07 G 0762
-15.689998,73.793290,DHS,"Government Health Centre, Pernem ",,,GA 07 G 0973
-15.585394,73.935535,DHS,"Primary Health Centre, Mayem",,,GA 07 G 1042
-15.393260,74.005784,DHS,"Sub District Hospital, Ponda, St Cruz Tisk Ponda",,,GA 07 G 1113
-15.514800,73.768362,DHS,"Primary Health Centre, Candolim ",,,GA 07 G 1117
-15.596975,73.820134,DHS,"At District Hospital, Mapusa ",,,GA 07 G 1187
-15.324918,74.021841,DHS,"Primary Health Centre, Shiroda",,,GA 07 G 1210
-15.584472,73.959682,DHS,"CHC Bicholim, Hospital, Bicholim",,,GA 07 G 1799
-15.400524,73.832732,DHS,"Sub District Hospital, Chicalim",,,GA 07 G 1828
-15.557019,74.016079,DHS,"Government Hospital, Desai Nagar, Sanquelim",,,GA 07 G 1829
-15.255098,74.109640,DHS,"Community Health Center, Kakoda",,,GA 07 G 1830
-15.689850,73.793630,DHS,"Government Health Centre,  Pernem ",,,GA 07 G 1831
-15.416728,74.082985,DHS,"Primary Health Centre, Tisk Usgao",,,GA 07 G 1891
-15.463226,73.857815,DHS,Goa Medical College ,,,GA 07 G 1892
-15.529168,74.130291,DHS,"Community Health Center, Valpoi",,,GA 07 G 1895
-15.371432,73.932041,DHS,,,,GA 07 G 1897
-15.227849,74.153908,DHS,"Primary Health Centre, Sanguem",,,GA 07 G 1904
-15.007964,74.050956,DHS,"Government Hospital, Canacona",,,GA 08 G 5099
-15.400752,73.832356,DHS,"Cottage Hospital, Alto Chicalim, Vasco da Gama",,,GA 08 G 5077
-15.642311,73.837540,DHS,"Primary Health Center, Colvale",,,GA 07 G 1114
-15.613986,73.771754,DHS,"Primary Health Centre, Siolim",,,GA 07 G 1196
-15.512985,73.983333,DHS,"Primary Health Centre, Betqui, Ponda",,,GA 07 G 0340
-15.324918,74.021841,DHS,"Primary Health Centre, Shiroda",,,GA 07 G 1045
-15.257165,74.109264,DHS,Community Health Center- Curchorem ,,,GA 07 G 0974
-15.512985,73.983333,DHS,"Primary Health Centre, Betqui, Ponda",,,GA 07 G 1184
-15.596975,73.820134,DHS,"At District Hospital, Mapusa ",,,GA 07 G 1202
-15.526683,73.833961,DHS,"Primary Health Center, Alto Porvorim",,,GA 07 G 1109
-15.216670,74.078146,DHS,"Primary Health Centre, Quepem",,,GA 07 G 1205
-15.393260,74.005784,DHS,"Sub District Hospital, Ponda, St Cruz Tisk Ponda",,,GA 07 G 1185
-15.422283,73.949661,DHS,"Primary Health Centre, Marcaim, Madkai",,,GA 07 G 1010
-15.295199,73.953695,DHS,Hospicio - South Goa District Hospital,,,GA 08 G 5082
+15.577752,73.862570,DHS,"Primary Health Centre, Aldona",,1.000000,GA 01 G 7646
+15.497947,73.826381,DHS,Urban Health Centre Panjim,,2.000000,GA 01 G 7661
+15.280073,73.965699,DHS,TB Hospital Margoa ,,3.000000,GA 07 G 0757
+15.489778,73.936963,DHS,"Primary Health Centre, Corlim",,4.000000,GA 07 G 0762
+15.689998,73.793290,DHS,"Government Health Centre, Pernem ",,5.000000,GA 07 G 0973
+15.585394,73.935535,DHS,"Primary Health Centre, Mayem",,6.000000,GA 07 G 1042
+15.393260,74.005784,DHS,"Sub District Hospital, Ponda, St Cruz Tisk Ponda",,7.000000,GA 07 G 1113
+15.514800,73.768362,DHS,"Primary Health Centre, Candolim ",,8.000000,GA 07 G 1117
+15.596975,73.820134,DHS,"At District Hospital, Mapusa ",,9.000000,GA 07 G 1187
+15.324918,74.021841,DHS,"Primary Health Centre, Shiroda",,10.000000,GA 07 G 1210
+15.584472,73.959682,DHS,"CHC Bicholim, Hospital, Bicholim",,11.000000,GA 07 G 1799
+15.400524,73.832732,DHS,"Sub District Hospital, Chicalim",,12.000000,GA 07 G 1828
+15.557019,74.016079,DHS,"Government Hospital, Desai Nagar, Sanquelim",,13.000000,GA 07 G 1829
+15.255098,74.109640,DHS,"Community Health Center, Kakoda",,14.000000,GA 07 G 1830
+15.689850,73.793630,DHS,"Government Health Centre,  Pernem ",,15.000000,GA 07 G 1831
+15.416728,74.082985,DHS,"Primary Health Centre, Tisk Usgao",,16.000000,GA 07 G 1891
+15.463226,73.857815,DHS,Goa Medical College ,,17.000000,GA 07 G 1892
+15.529168,74.130291,DHS,"Community Health Center, Valpoi",,18.000000,GA 07 G 1895
+15.371432,73.932041,DHS,,,19.000000,GA 07 G 1897
+15.227849,74.153908,DHS,"Primary Health Centre, Sanguem",,20.000000,GA 07 G 1904
+15.007964,74.050956,DHS,"Government Hospital, Canacona",,21.000000,GA 08 G 5099
+15.400752,73.832356,DHS,"Cottage Hospital, Alto Chicalim, Vasco da Gama",,22.000000,GA 08 G 5077
+15.642311,73.837540,DHS,"Primary Health Center, Colvale",,23.000000,GA 07 G 1114
+15.613986,73.771754,DHS,"Primary Health Centre, Siolim",,24.000000,GA 07 G 1196
+15.512985,73.983333,DHS,"Primary Health Centre, Betqui, Ponda",,25.000000,GA 07 G 0340
+15.324918,74.021841,DHS,"Primary Health Centre, Shiroda",,26.000000,GA 07 G 1045
+15.257165,74.109264,DHS,Community Health Center- Curchorem ,,27.000000,GA 07 G 0974
+15.512985,73.983333,DHS,"Primary Health Centre, Betqui, Ponda",,28.000000,GA 07 G 1184
+15.596975,73.820134,DHS,"At District Hospital, Mapusa ",,29.000000,GA 07 G 1202
+15.526683,73.833961,DHS,"Primary Health Center, Alto Porvorim",,30.000000,GA 07 G 1109
+15.216670,74.078146,DHS,"Primary Health Centre, Quepem",,31.000000,GA 07 G 1205
+15.393260,74.005784,DHS,"Sub District Hospital, Ponda, St Cruz Tisk Ponda",,32.000000,GA 07 G 1185
+15.422283,73.949661,DHS,"Primary Health Centre, Marcaim, Madkai",,33.000000,GA 07 G 1010
+15.295199,73.953695,DHS,Hospicio - South Goa District Hospital,,34.000000,GA 08 G 5082
 15.497947,73.826381,DHS,Urban Health Centre Panjim,,,GA 07 G 1110
 15.467801,73.865714,DHS,"Primary Health Centre, Chimbel",,,GA 07 G 1106
 15.514800,73.768362,DHS,"Primary Health Centre, Candolim ",,,GA 07 G 0756

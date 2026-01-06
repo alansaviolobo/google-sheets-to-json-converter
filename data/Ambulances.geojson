@@ -21,7 +21,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Aldona",
         "Address": null,
-        "Contact": null,
+        "Contact": 1,
         "Vehicle_No": "GA 01 G 7646"
       }
     },
@@ -38,7 +38,7 @@
         "Type": "DHS",
         "Hospital": "Urban Health Centre Panjim",
         "Address": null,
-        "Contact": null,
+        "Contact": 2,
         "Vehicle_No": "GA 01 G 7661"
       }
     },
@@ -55,7 +55,7 @@
         "Type": "DHS",
         "Hospital": "TB Hospital Margoa ",
         "Address": null,
-        "Contact": null,
+        "Contact": 3,
         "Vehicle_No": "GA 07 G 0757"
       }
     },
@@ -72,7 +72,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Corlim",
         "Address": null,
-        "Contact": null,
+        "Contact": 4,
         "Vehicle_No": "GA 07 G 0762"
       }
     },
@@ -89,7 +89,7 @@
         "Type": "DHS",
         "Hospital": "Government Health Centre, Pernem ",
         "Address": null,
-        "Contact": null,
+        "Contact": 5,
         "Vehicle_No": "GA 07 G 0973"
       }
     },
@@ -106,7 +106,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Mayem",
         "Address": null,
-        "Contact": null,
+        "Contact": 6,
         "Vehicle_No": "GA 07 G 1042"
       }
     },
@@ -123,7 +123,7 @@
         "Type": "DHS",
         "Hospital": "Sub District Hospital, Ponda, St Cruz Tisk Ponda",
         "Address": null,
-        "Contact": null,
+        "Contact": 7,
         "Vehicle_No": "GA 07 G 1113"
       }
     },
@@ -140,7 +140,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Candolim ",
         "Address": null,
-        "Contact": null,
+        "Contact": 8,
         "Vehicle_No": "GA 07 G 1117"
       }
     },
@@ -157,7 +157,7 @@
         "Type": "DHS",
         "Hospital": "At District Hospital, Mapusa ",
         "Address": null,
-        "Contact": null,
+        "Contact": 9,
         "Vehicle_No": "GA 07 G 1187"
       }
     },
@@ -174,7 +174,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Shiroda",
         "Address": null,
-        "Contact": null,
+        "Contact": 10,
         "Vehicle_No": "GA 07 G 1210"
       }
     },
@@ -191,7 +191,7 @@
         "Type": "DHS",
         "Hospital": "CHC Bicholim, Hospital, Bicholim",
         "Address": null,
-        "Contact": null,
+        "Contact": 11,
         "Vehicle_No": "GA 07 G 1799"
       }
     },
@@ -208,7 +208,7 @@
         "Type": "DHS",
         "Hospital": "Sub District Hospital, Chicalim",
         "Address": null,
-        "Contact": null,
+        "Contact": 12,
         "Vehicle_No": "GA 07 G 1828"
       }
     },
@@ -225,7 +225,7 @@
         "Type": "DHS",
         "Hospital": "Government Hospital, Desai Nagar, Sanquelim",
         "Address": null,
-        "Contact": null,
+        "Contact": 13,
         "Vehicle_No": "GA 07 G 1829"
       }
     },
@@ -242,7 +242,7 @@
         "Type": "DHS",
         "Hospital": "Community Health Center, Kakoda",
         "Address": null,
-        "Contact": null,
+        "Contact": 14,
         "Vehicle_No": "GA 07 G 1830"
       }
     },
@@ -259,7 +259,7 @@
         "Type": "DHS",
         "Hospital": "Government Health Centre,  Pernem ",
         "Address": null,
-        "Contact": null,
+        "Contact": 15,
         "Vehicle_No": "GA 07 G 1831"
       }
     },
@@ -276,7 +276,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Tisk Usgao",
         "Address": null,
-        "Contact": null,
+        "Contact": 16,
         "Vehicle_No": "GA 07 G 1891"
       }
     },
@@ -293,7 +293,7 @@
         "Type": "DHS",
         "Hospital": "Goa Medical College ",
         "Address": null,
-        "Contact": null,
+        "Contact": 17,
         "Vehicle_No": "GA 07 G 1892"
       }
     },
@@ -310,7 +310,7 @@
         "Type": "DHS",
         "Hospital": "Community Health Center, Valpoi",
         "Address": null,
-        "Contact": null,
+        "Contact": 18,
         "Vehicle_No": "GA 07 G 1895"
       }
     },
@@ -327,7 +327,7 @@
         "Type": "DHS",
         "Hospital": null,
         "Address": null,
-        "Contact": null,
+        "Contact": 19,
         "Vehicle_No": "GA 07 G 1897"
       }
     },
@@ -344,7 +344,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Sanguem",
         "Address": null,
-        "Contact": null,
+        "Contact": 20,
         "Vehicle_No": "GA 07 G 1904"
       }
     },
@@ -361,7 +361,7 @@
         "Type": "DHS",
         "Hospital": "Government Hospital, Canacona",
         "Address": null,
-        "Contact": null,
+        "Contact": 21,
         "Vehicle_No": "GA 08 G 5099"
       }
     },
@@ -378,7 +378,7 @@
         "Type": "DHS",
         "Hospital": "Cottage Hospital, Alto Chicalim, Vasco da Gama",
         "Address": null,
-        "Contact": null,
+        "Contact": 22,
         "Vehicle_No": "GA 08 G 5077"
       }
     },
@@ -395,7 +395,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Center, Colvale",
         "Address": null,
-        "Contact": null,
+        "Contact": 23,
         "Vehicle_No": "GA 07 G 1114"
       }
     },
@@ -412,7 +412,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Siolim",
         "Address": null,
-        "Contact": null,
+        "Contact": 24,
         "Vehicle_No": "GA 07 G 1196"
       }
     },
@@ -429,7 +429,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Betqui, Ponda",
         "Address": null,
-        "Contact": null,
+        "Contact": 25,
         "Vehicle_No": "GA 07 G 0340"
       }
     },
@@ -446,7 +446,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Shiroda",
         "Address": null,
-        "Contact": null,
+        "Contact": 26,
         "Vehicle_No": "GA 07 G 1045"
       }
     },
@@ -463,7 +463,7 @@
         "Type": "DHS",
         "Hospital": "Community Health Center- Curchorem ",
         "Address": null,
-        "Contact": null,
+        "Contact": 27,
         "Vehicle_No": "GA 07 G 0974"
       }
     },
@@ -480,7 +480,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Betqui, Ponda",
         "Address": null,
-        "Contact": null,
+        "Contact": 28,
         "Vehicle_No": "GA 07 G 1184"
       }
     },
@@ -497,7 +497,7 @@
         "Type": "DHS",
         "Hospital": "At District Hospital, Mapusa ",
         "Address": null,
-        "Contact": null,
+        "Contact": 29,
         "Vehicle_No": "GA 07 G 1202"
       }
     },
@@ -514,7 +514,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Center, Alto Porvorim",
         "Address": null,
-        "Contact": null,
+        "Contact": 30,
         "Vehicle_No": "GA 07 G 1109"
       }
     },
@@ -531,7 +531,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Quepem",
         "Address": null,
-        "Contact": null,
+        "Contact": 31,
         "Vehicle_No": "GA 07 G 1205"
       }
     },
@@ -548,7 +548,7 @@
         "Type": "DHS",
         "Hospital": "Sub District Hospital, Ponda, St Cruz Tisk Ponda",
         "Address": null,
-        "Contact": null,
+        "Contact": 32,
         "Vehicle_No": "GA 07 G 1185"
       }
     },
@@ -565,7 +565,7 @@
         "Type": "DHS",
         "Hospital": "Primary Health Centre, Marcaim, Madkai",
         "Address": null,
-        "Contact": null,
+        "Contact": 33,
         "Vehicle_No": "GA 07 G 1010"
       }
     },
@@ -582,7 +582,7 @@
         "Type": "DHS",
         "Hospital": "Hospicio - South Goa District Hospital",
         "Address": null,
-        "Contact": null,
+        "Contact": 34,
         "Vehicle_No": "GA 08 G 5082"
       }
     },
