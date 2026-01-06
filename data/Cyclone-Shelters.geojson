@@ -18,7 +18,13 @@
         ]
       },
       "properties": {
-        "Name": "Altinho, Tiswadi"
+        "Name": "Altinho, Tiswadi",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -31,7 +37,13 @@
         ]
       },
       "properties": {
-        "Name": "Aquem, Salcete"
+        "Name": "Aquem, Salcete",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -44,7 +56,13 @@
         ]
       },
       "properties": {
-        "Name": "Chapoli, Canacona"
+        "Name": "Chapoli, Canacona",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -57,7 +75,13 @@
         ]
       },
       "properties": {
-        "Name": "Cuelim, Mormugao"
+        "Name": "Cuelim, Mormugao",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -70,7 +94,13 @@
         ]
       },
       "properties": {
-        "Name": "Dabolim, Mormugao"
+        "Name": "Dabolim, Mormugao",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -83,7 +113,13 @@
         ]
       },
       "properties": {
-        "Name": "Junaswada, Pernem"
+        "Name": "Junaswada, Pernem",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -96,7 +132,13 @@
         ]
       },
       "properties": {
-        "Name": "Mahalwada, Canacona"
+        "Name": "Mahalwada, Canacona",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -109,7 +151,13 @@
         ]
       },
       "properties": {
-        "Name": "Nagarcem, Canacona"
+        "Name": "Nagarcem, Canacona",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -122,7 +170,13 @@
         ]
       },
       "properties": {
-        "Name": "Pilerne, Bardez"
+        "Name": "Pilerne, Bardez",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -135,7 +189,13 @@
         ]
       },
       "properties": {
-        "Name": "Porvorim, Bardez"
+        "Name": "Porvorim, Bardez",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     },
     {
@@ -148,7 +208,13 @@
         ]
       },
       "properties": {
-        "Name": "Zuarinagar, Mormugao"
+        "Name": "Zuarinagar, Mormugao",
+        "Location": null,
+        "Capacity": null,
+        "Floors": null,
+        "Toilets Available": null,
+        "Drinking Water": null,
+        "Power Backup": null
       }
     }
   ]
