@@ -20,11 +20,18 @@
       "properties": {
         "Type": "District Hospital",
         "Name": "North Goa District Hospital Mapusa",
-        "Beds": 300,
         "Phone_1": 8322262292,
         "Phone_2": null,
         "Email_1": "asilosa-heal.goa@nic.in",
-        "Email_2": "asilohospital@gmail.com"
+        "Email_2": "asilohospital@gmail.com",
+        "Total Beds": 300,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -39,11 +46,18 @@
       "properties": {
         "Type": "District Hospital",
         "Name": "Hospicio Hospital, Margao.",
-        "Beds": 250,
         "Phone_1": 8322735766,
         "Phone_2": 8322705664,
         "Email_1": "hospicio-heal.goa@nic.in",
-        "Email_2": "paedhospicio@gmail.com"
+        "Email_2": "paedhospicio@gmail.com",
+        "Total Beds": 250,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -58,11 +72,18 @@
       "properties": {
         "Type": "District Hospital",
         "Name": "Sub District Hospital, Chicalim",
-        "Beds": 60,
         "Phone_1": 8322540555,
         "Phone_2": 8322540864,
         "Email_1": "cottage-heal.goa@nic.in",
-        "Email_2": "cottagehospitalgoa@gmail.com"
+        "Email_2": "cottagehospitalgoa@gmail.com",
+        "Total Beds": 60,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -77,11 +98,18 @@
       "properties": {
         "Type": "District Hospital",
         "Name": "T.B. Hospital, Margao",
-        "Beds": 68,
         "Phone_1": 0,
         "Phone_2": null,
         "Email_1": "tbhospital-heal.goa@nic.in",
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 68,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -96,11 +124,18 @@
       "properties": {
         "Type": "District Hospital",
         "Name": "Sub District Hospital, Ponda",
-        "Beds": 220,
         "Phone_1": 8322312116,
         "Phone_2": 8322312115,
         "Email_1": "subdistrict-heal.goa@nic.in",
-        "Email_2": "subdistricthospitalponda@gmail.com"
+        "Email_2": "subdistricthospitalponda@gmail.com",
+        "Total Beds": 220,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -115,11 +150,18 @@
       "properties": {
         "Type": "CHC",
         "Name": "Canacona",
-        "Beds": 70,
         "Phone_1": 8322643339,
         "Phone_2": 8322643422,
         "Email_1": null,
-        "Email_2": "chccanacona@gmailcom"
+        "Email_2": "chccanacona@gmailcom",
+        "Total Beds": 70,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -134,11 +176,18 @@
       "properties": {
         "Type": "CHC",
         "Name": "Curchorem",
-        "Beds": 50,
         "Phone_1": 8322650566,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "chccurchorem@hotmail.com"
+        "Email_2": "chccurchorem@hotmail.com",
+        "Total Beds": 50,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -153,11 +202,18 @@
       "properties": {
         "Type": "CHC",
         "Name": "Pernem",
-        "Beds": 40,
         "Phone_1": 8322291249,
         "Phone_2": null,
         "Email_1": "chcpernem-heal.goa@nic.in",
-        "Email_2": "chctuem@yahoo.in"
+        "Email_2": "chctuem@yahoo.in",
+        "Total Beds": 40,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -172,11 +228,18 @@
       "properties": {
         "Type": "CHC",
         "Name": "Valpoi",
-        "Beds": 30,
         "Phone_1": 8322374260,
         "Phone_2": 8322375234,
         "Email_1": "chcvalpoi-heal.goa@nic.in",
-        "Email_2": "chcvalpoi@hotmail.com"
+        "Email_2": "chcvalpoi@hotmail.com",
+        "Total Beds": 30,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -191,11 +254,18 @@
       "properties": {
         "Type": "CHC",
         "Name": "Bicholim",
-        "Beds": 30,
         "Phone_1": 8322362050,
         "Phone_2": 8322362041,
         "Email_1": "phcbicholim-heal.goa@nic.in",
-        "Email_2": "phcbicholim2012@gmail.com"
+        "Email_2": "phcbicholim2012@gmail.com",
+        "Total Beds": 30,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -210,11 +280,18 @@
       "properties": {
         "Type": "CHC",
         "Name": "Sankhlim",
-        "Beds": 70,
         "Phone_1": 8322364258,
         "Phone_2": 8322366697,
         "Email_1": "phcsankhali-heal.goa@nic.in",
-        "Email_2": "phcsankhali@rocketmail.com"
+        "Email_2": "phcsankhali@rocketmail.com",
+        "Total Beds": 70,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -229,11 +306,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Aldona",
-        "Beds": 12,
         "Phone_1": 8322293251,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "phcaldona@yahoo.co.in"
+        "Email_2": "phcaldona@yahoo.co.in",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -248,11 +332,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Betki",
-        "Beds": 12,
         "Phone_1": 8322287160,
         "Phone_2": 8322399658,
         "Email_1": "phcbetki-heal.goa@nic.in",
-        "Email_2": "phcbetki@hotmail.com"
+        "Email_2": "phcbetki@hotmail.com",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -267,11 +358,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Candolim",
-        "Beds": 12,
         "Phone_1": 8322489747,
         "Phone_2": 8322489035,
         "Email_1": "phccandolim-heal.goa@nic.in",
-        "Email_2": "candolimphc@yahoo.in"
+        "Email_2": "candolimphc@yahoo.in",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -286,11 +384,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Cansarvanem",
-        "Beds": 12,
         "Phone_1": 8322205222,
         "Phone_2": null,
         "Email_1": "phc_cans@rediffmail.com",
-        "Email_2": "phccansarvarnem@gmail.com"
+        "Email_2": "phccansarvarnem@gmail.com",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -305,11 +410,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Colvale",
-        "Beds": 0,
         "Phone_1": 8322299870,
         "Phone_2": null,
         "Email_1": "phccolvale-heal.goa@nic.in",
-        "Email_2": "phc_colvale@rediffmail.com"
+        "Email_2": "phc_colvale@rediffmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -324,11 +436,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Corlim",
-        "Beds": 0,
         "Phone_1": 8322285769,
         "Phone_2": null,
         "Email_1": "phccorlim-heal.goa@nic.in",
-        "Email_2": "phccorlim@hotmail.com"
+        "Email_2": "phccorlim@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -343,11 +462,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Chimbel",
-        "Beds": 0,
         "Phone_1": 8322458933,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "phcchimbel@gmail.com"
+        "Email_2": "phcchimbel@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -362,11 +488,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Siolim",
-        "Beds": 12,
         "Phone_1": 8322272687,
         "Phone_2": null,
         "Email_1": "phcsiolim-heal.goa@nic.in",
-        "Email_2": "phcsiolim@rediffmail.com"
+        "Email_2": "phcsiolim@rediffmail.com",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -381,11 +514,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Porvorim",
-        "Beds": 0,
         "Phone_1": 8322411991,
         "Phone_2": null,
         "Email_1": "phcporvorim-heal.goa@gov.in",
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -400,11 +540,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Mayem",
-        "Beds": 0,
         "Phone_1": 8322225561,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "mayemphc@gmail.com"
+        "Email_2": "mayemphc@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -419,11 +566,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Bali",
-        "Beds": 24,
         "Phone_1": 8322670965,
         "Phone_2": 8322670216,
         "Email_1": null,
-        "Email_2": "phcballi@gmail.com"
+        "Email_2": "phcballi@gmail.com",
+        "Total Beds": 24,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -438,11 +592,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Cansaulim",
-        "Beds": 12,
         "Phone_1": 8322754036,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "phccansaulim@gmail.com"
+        "Email_2": "phccansaulim@gmail.com",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -457,11 +618,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Chinchinim",
-        "Beds": 0,
         "Phone_1": 8322863237,
         "Phone_2": 8322862233,
         "Email_1": null,
-        "Email_2": "phcchinchinim@gmail.com"
+        "Email_2": "phcchinchinim@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -476,11 +644,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Cortalim",
-        "Beds": 0,
         "Phone_1": 8322550274,
         "Phone_2": null,
         "Email_1": "phccortalim-heal.goa@nic.in",
-        "Email_2": "cortalimphc@gmail.com"
+        "Email_2": "cortalimphc@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -495,11 +670,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Curtorim",
-        "Beds": 12,
         "Phone_1": 8322786910,
         "Phone_2": 8322786206,
         "Email_1": null,
-        "Email_2": "phccurtorimabc@gmail.com"
+        "Email_2": "phccurtorimabc@gmail.com",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -514,11 +696,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Loutolim",
-        "Beds": 0,
         "Phone_1": 8322777140,
         "Phone_2": null,
         "Email_1": "phcloutolim-heal.goa@nic.in",
-        "Email_2": "phc.loutolim@gmail.com"
+        "Email_2": "phc.loutolim@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -533,11 +722,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Marcaim",
-        "Beds": 12,
         "Phone_1": 8322392230,
         "Phone_2": 8322392007,
         "Email_1": "phcmarcaim-heal.goa@nic.in",
-        "Email_2": "phcmarcaim4033@gmail.com"
+        "Email_2": "phcmarcaim4033@gmail.com",
+        "Total Beds": 12,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -552,11 +748,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Quepem",
-        "Beds": 24,
         "Phone_1": 8322662636,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "phcquepem@rediffmail.com"
+        "Email_2": "phcquepem@rediffmail.com",
+        "Total Beds": 24,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -571,11 +774,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Sanguem",
-        "Beds": 20,
         "Phone_1": 8322604017,
         "Phone_2": 8322604235,
         "Email_1": "phcsanguem-heal.goa@nic.in",
-        "Email_2": "phcsanguem@rediffmail.com"
+        "Email_2": "phcsanguem@rediffmail.com",
+        "Total Beds": 20,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -590,11 +800,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Shiroda",
-        "Beds": 24,
         "Phone_1": 8322307373,
         "Phone_2": 8322306243,
         "Email_1": null,
-        "Email_2": "phcshiroda@rediffmail.com"
+        "Email_2": "phcshiroda@rediffmail.com",
+        "Total Beds": 24,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -609,11 +826,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Pillem, Dharbandora",
-        "Beds": 15,
         "Phone_1": 0,
         "Phone_2": null,
         "Email_1": "phcpillem-heal.goa@nic.in",
-        "Email_2": "phcpilliem@yahoo.com"
+        "Email_2": "phcpilliem@yahoo.com",
+        "Total Beds": 15,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -628,11 +852,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Ponda",
-        "Beds": 0,
         "Phone_1": 8322319006,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "chcponda@gmail.com"
+        "Email_2": "chcponda@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -647,11 +878,18 @@
       "properties": {
         "Type": "PHC",
         "Name": "Navelim",
-        "Beds": 0,
         "Phone_1": 8322710700,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": "phcnavelim123@gmail.com"
+        "Email_2": "phcnavelim123@gmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -666,11 +904,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Margao",
-        "Beds": 0,
         "Phone_1": 8322715004,
         "Phone_2": 8322711800,
         "Email_1": "uhcmargao-heal.goa@nic.in",
-        "Email_2": "uhcmargao@hotmail.com"
+        "Email_2": "uhcmargao@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -685,11 +930,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Mapusa",
-        "Beds": 0,
         "Phone_1": 8322262226,
         "Phone_2": null,
         "Email_1": "uhcmapusa-heal.goa@nic.in",
-        "Email_2": "uhcmapusa@hotmail.com"
+        "Email_2": "uhcmapusa@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -704,11 +956,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Panaji",
-        "Beds": 0,
         "Phone_1": 8322426495,
         "Phone_2": 8322421327,
         "Email_1": "uhcpanaji-heal.goa@nic.in",
-        "Email_2": "uhcpanaji@hotmail.com"
+        "Email_2": "uhcpanaji@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -723,11 +982,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Vasco",
-        "Beds": 0,
         "Phone_1": 8322513207,
         "Phone_2": 8322500606,
         "Email_1": "uhcvasco-heal.goa@nic.in",
-        "Email_2": "uhcvasco@hotmail.com"
+        "Email_2": "uhcvasco@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -742,11 +1008,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Margao",
-        "Beds": 0,
         "Phone_1": 8322715004,
         "Phone_2": 8322711800,
         "Email_1": "uhcmargao-heal.goa@nic.in",
-        "Email_2": "uhcmargao@hotmail.com"
+        "Email_2": "uhcmargao@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -761,11 +1034,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Mapusa",
-        "Beds": 0,
         "Phone_1": 8322262226,
         "Phone_2": null,
         "Email_1": "uhcmapusa-heal.goa@nic.in",
-        "Email_2": "uhcmapusa@hotmail.com"
+        "Email_2": "uhcmapusa@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -780,11 +1060,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Panaji",
-        "Beds": 0,
         "Phone_1": 8322426495,
         "Phone_2": 8322421327,
         "Email_1": "uhcpanaji-heal.goa@nic.in",
-        "Email_2": "uhcpanaji@hotmail.com"
+        "Email_2": "uhcpanaji@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -799,11 +1086,18 @@
       "properties": {
         "Type": "UHC",
         "Name": "Vasco",
-        "Beds": 0,
         "Phone_1": 8322513207,
         "Phone_2": 8322500606,
         "Email_1": "uhcvasco-heal.goa@nic.in",
-        "Email_2": "uhcvasco@hotmail.com"
+        "Email_2": "uhcvasco@hotmail.com",
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -818,11 +1112,18 @@
       "properties": {
         "Type": "Govt Hospital",
         "Name": "G.M.C. Bambolim",
-        "Beds": 1160,
         "Phone_1": 8322458700,
         "Phone_2": 8322458715,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 1160,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -837,11 +1138,18 @@
       "properties": {
         "Type": "Govt Hospital",
         "Name": "R.H.T.C. Mandur",
-        "Beds": 20,
         "Phone_1": 8322208046,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 20,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -856,11 +1164,18 @@
       "properties": {
         "Type": "Govt Hospital",
         "Name": "I.P.H.B. Bambolim",
-        "Beds": 190,
         "Phone_1": 8322449144,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 190,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -875,11 +1190,18 @@
       "properties": {
         "Type": "Govt Hospital",
         "Name": "UHC St. Cruz.",
-        "Beds": 0,
         "Phone_1": 8322449144,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -894,11 +1216,18 @@
       "properties": {
         "Type": "Semi Hospital",
         "Name": "Military Hospital, Panaji",
-        "Beds": 27,
         "Phone_1": 0,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 27,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -913,11 +1242,18 @@
       "properties": {
         "Type": "Semi Hospital",
         "Name": "I.N.S. Jeevanti, Vasco.",
-        "Beds": 84,
         "Phone_1": 0,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 84,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -932,11 +1268,18 @@
       "properties": {
         "Type": "Semi Hospital",
         "Name": "South Central Railway Vasco.",
-        "Beds": 0,
         "Phone_1": 0,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 0,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -951,11 +1294,18 @@
       "properties": {
         "Type": "Semi Hospital",
         "Name": "ESI, Margao",
-        "Beds": 10,
         "Phone_1": 0,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 10,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -970,11 +1320,18 @@
       "properties": {
         "Type": "Semi Hospital",
         "Name": "MPT, Vasco. ",
-        "Beds": 100,
         "Phone_1": 8322521377,
         "Phone_2": null,
         "Email_1": null,
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 100,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -989,11 +1346,18 @@
       "properties": {
         "Type": "Other Hospital",
         "Name": "Shri. Kamaxidevi Homoeopathic Medical Collge & Hospital",
-        "Beds": 25,
         "Phone_1": 8322306842,
         "Phone_2": null,
         "Email_1": "skhmchgoa98@hotmail.com",
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 25,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     },
     {
@@ -1008,11 +1372,18 @@
       "properties": {
         "Type": "Other Hospital",
         "Name": "Gomantak Ayurveda Mahavidyalaya & Research Centre",
-        "Beds": 100,
         "Phone_1": 8322306309,
         "Phone_2": null,
         "Email_1": "ayrugoa@rediffmail.com",
-        "Email_2": null
+        "Email_2": null,
+        "Total Beds": 100,
+        "ICU Beds": null,
+        "Oxygen Beds": null,
+        "Ventilators": null,
+        "Trauma Care": null,
+        "Blood Bank": null,
+        "Ambulance Available": null,
+        "Medical Super Name": null
       }
     }
   ]

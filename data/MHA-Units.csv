@@ -1,16 +1,16 @@
-Latitude,Longitude,Asset,Name,Mobile
-15.373330,73.948660,GIDC,Bharat Petroleum Corporation Ltd,0
-15.493570,73.940760,GIDC,Deccan Fine Chemicals INDIA Pvt Ltd,0
-15.562250,74.075800,GIDC,Esteem Industries Pvt Ltd,0
-15.531620,73.820320,GIDC,Filpack (India) Pvt. Ltd,0
-15.418000,74.045350,GIDC,Finolex Cables Ltd,0
-15.641540,73.823490,GIDC,Goa Glass Fibre Ltd,0
-15.487450,73.977120,GIDC,Hindustan Petroleum Corporation Ltd,0
-15.398100,73.807640,GIDC,Hindustan Petroleum Corporation Ltd,0
-15.404100,73.802800,GIDC,Indian Oil Corporation Ltd,0
-15.421650,74.061930,GIDC,Nestle India Ltd,0
-15.550580,74.083070,GIDC,Omni Imex Pvt Ltd,0
-15.583000,73.955480,GIDC,Venus Ethoxyethers Pvt Ltd,0
-15.530800,74.075640,GIDC,VIC Industries,0
-15.377510,73.880950,GIDC,Zuari Agrochemicals Ltd,0
-15.380510,73.885420,GIDC,Zuari Indian Oil Tanking Pvt Ltd,0
+Latitude,Longitude,Asset,Name,Address,Safety Officer,Mobile,Last Updated
+15.373330,73.948660,GIDC,Bharat Petroleum Corporation Ltd,,,0,
+15.493570,73.940760,GIDC,Deccan Fine Chemicals INDIA Pvt Ltd,,,0,
+15.562250,74.075800,GIDC,Esteem Industries Pvt Ltd,,,0,
+15.531620,73.820320,GIDC,Filpack (India) Pvt. Ltd,,,0,
+15.418000,74.045350,GIDC,Finolex Cables Ltd,,,0,
+15.641540,73.823490,GIDC,Goa Glass Fibre Ltd,,,0,
+15.487450,73.977120,GIDC,Hindustan Petroleum Corporation Ltd,,,0,
+15.398100,73.807640,GIDC,Hindustan Petroleum Corporation Ltd,,,0,
+15.404100,73.802800,GIDC,Indian Oil Corporation Ltd,,,0,
+15.421650,74.061930,GIDC,Nestle India Ltd,,,0,
+15.550580,74.083070,GIDC,Omni Imex Pvt Ltd,,,0,
+15.583000,73.955480,GIDC,Venus Ethoxyethers Pvt Ltd,,,0,
+15.530800,74.075640,GIDC,VIC Industries,,,0,
+15.377510,73.880950,GIDC,Zuari Agrochemicals Ltd,,,0,
+15.380510,73.885420,GIDC,Zuari Indian Oil Tanking Pvt Ltd,,,0,
