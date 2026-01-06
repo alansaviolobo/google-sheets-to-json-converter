@@ -19,9 +19,12 @@
       },
       "properties": {
         "Name": "North Goa Civil Supplies Godown - Tiswadi",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Junta House, Panaji",
-        "Capacity": "550 MTs"
+        "Capacity": "550 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -35,9 +38,12 @@
       },
       "properties": {
         "Name": "North Goa Civil Supplies Godown - Pernem",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Tuem, Pernem",
-        "Capacity": "550 MTs"
+        "Capacity": "550 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -51,9 +57,12 @@
       },
       "properties": {
         "Name": "North Goa Civil Supplies Godown - Sattari",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Near Police Out Post, Honda, Valpoi",
-        "Capacity": "550 MTs"
+        "Capacity": "550 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -67,9 +76,12 @@
       },
       "properties": {
         "Name": "North Goa Civil Supplies Godown - Bicholim",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Karapur Tisk, Bicholim",
-        "Capacity": "2000 MTs"
+        "Capacity": "2000 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -83,9 +95,12 @@
       },
       "properties": {
         "Name": "North Goa Civil Supplies Godown - Bardez",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Dattawadi, Mapusa",
-        "Capacity": "1100 MTs"
+        "Capacity": "1100 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -99,9 +114,12 @@
       },
       "properties": {
         "Name": "South Goa Civil Supplies Godown - Ponda",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Nirankal Road,Bethoda Curti, Ponda",
-        "Capacity": "2000 MTs"
+        "Capacity": "2000 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -115,9 +133,12 @@
       },
       "properties": {
         "Name": "South Goa Civil Supplies Godown - Salcete",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Near Ferry Warf, Cortalim",
-        "Capacity": "2000 MTs"
+        "Capacity": "2000 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -131,9 +152,12 @@
       },
       "properties": {
         "Name": "South Goa Civil Supplies Godown - Mormugao",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Near Ferry Warf, Cortalim",
-        "Capacity": "2000 MTs"
+        "Capacity": "2000 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -147,9 +171,12 @@
       },
       "properties": {
         "Name": "South Goa Civil Supplies Godown - Quepem",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Curchorem",
-        "Capacity": "550 MTs"
+        "Capacity": "550 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -163,9 +190,12 @@
       },
       "properties": {
         "Name": "South Goa Civil Supplies Godown - Sanguem",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Dando, Sanguem",
-        "Capacity": "500 MTs"
+        "Capacity": "500 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     },
     {
@@ -179,9 +209,12 @@
       },
       "properties": {
         "Name": "South Goa Civil Supplies Godown - Canacona",
+        "Incharge": "Mr. ...",
         "Mobile": 0,
         "Address": "Opposite Police Station, Canacona",
-        "Capacity": "550 MTs"
+        "Capacity": "550 MTs",
+        "Current Stock": "(Rice, Wheat, etc.)",
+        "Last Updated": "12/30/1899"
       }
     }
   ]
