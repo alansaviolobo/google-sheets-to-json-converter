@@ -112,12 +112,12 @@
       "properties": {
         "Id": 5,
         "Station": "Kundaim FS",
-        "Station_1": "Loading...",
-        "Name": null,
-        "Mobile": null,
-        "Mobile2": null,
-        "Landline": null,
-        "Email": null,
+        "Station_1": "Fire Station Kundaim",
+        "Name": "Shri. Sushil Morajkar",
+        "Mobile": 7391047156,
+        "Mobile2": 9763717059,
+        "Landline": 2395455,
+        "Email": "kfs-fire.goa@nic.in",
         "No. of Fire Appliances": null,
         "Trained Personnel Count": null,
         "Last Updated": null
