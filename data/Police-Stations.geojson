@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Panaji",
+        "SHO Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in",
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -39,11 +39,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Old Goa",
+        "SHO Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in",
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -81,11 +81,11 @@
         ]
       },
       "properties": {
-        "Station": "Mapusa",
-        "SHO Name": "Nikhil N. Palekar",
-        "Mobile": 7875756026,
-        "Contact No": "0832-2262231",
-        "Email": "pimapusa@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -102,11 +102,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Anjuna",
+        "SHO Name": "Suraj H. Gawas",
+        "Mobile": 7875756027,
+        "Contact No": "0832-2273233",
+        "Email": "pianjuna@goapolice.gov.in",
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -123,11 +123,11 @@
         ]
       },
       "properties": {
-        "Station": "Pernem",
-        "SHO Name": "Sachin Lokre",
-        "Mobile": 7875756028,
-        "Contact No": "0832-2201233",
-        "Email": "pipernem@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -144,11 +144,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Colvale",
+        "SHO Name": "Sanjit B. Kandolkar",
+        "Mobile": 7875756234,
+        "Contact No": "0832-2993234",
+        "Email": "picolvale@goapolice.gov.in",
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -291,11 +291,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Maina Curtorim",
+        "SHO Name": "Arun Dessai",
+        "Mobile": 7875756042,
+        "Contact No": "0832-2991307",
+        "Email": "pi-mainacurtorim@goapolice.gov.in",
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -312,11 +312,11 @@
         ]
       },
       "properties": {
-        "Station": "Fatorda",
-        "SHO Name": "Nathan De Almeida",
-        "Mobile": 7875756181,
-        "Contact No": "0832-2741000",
-        "Email": "pi-fatorda@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -330,27 +330,6 @@
         "coordinates": [
           73.926584,
           15.277818
-        ]
-      },
-      "properties": {
-        "Station": "Colva",
-        "SHO Name": "Vikram Naik",
-        "Mobile": 7875756040,
-        "Contact No": "0832-2788396",
-        "Email": "pi-colva@goapolice.gov.in",
-        "Jurisdiction Area": null,
-        "Personnel Strength": null,
-        "Vehicles Available": null,
-        "Wireless Available": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          74.010183,
-          15.168828
         ]
       },
       "properties": {
@@ -370,16 +349,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          74.010183,
+          15.168828
+        ]
+      },
+      "properties": {
+        "Station": "Cuncolim",
+        "SHO Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in",
+        "Jurisdiction Area": null,
+        "Personnel Strength": null,
+        "Vehicles Available": null,
+        "Wireless Available": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           74.076196,
           15.226109
         ]
       },
       "properties": {
-        "Station": "Quepem",
-        "SHO Name": "Arjun Sangodkar",
-        "Mobile": 7875756044,
-        "Contact No": "0832-2662253",
-        "Email": "pi-quepem@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -438,11 +438,11 @@
         ]
       },
       "properties": {
-        "Station": "Canacona",
-        "SHO Name": "Harish Raut Dessai",
-        "Mobile": 7875756047,
-        "Contact No": "0832-2633357",
-        "Email": "picanacona@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -480,11 +480,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Verna",
+        "SHO Name": "Anand Shirodkar",
+        "Mobile": 7875756051,
+        "Contact No": "0832-2782325",
+        "Email": "pi-verna@goapolice.gov.in",
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -543,11 +543,11 @@
         ]
       },
       "properties": {
-        "Station": "Ponda",
-        "SHO Name": "Vijaynath A. Kavlekar",
-        "Mobile": 7875756036,
-        "Contact No": "0832-2313101",
-        "Email": "piponda@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": null,
         "Personnel Strength": null,
         "Vehicles Available": null,
