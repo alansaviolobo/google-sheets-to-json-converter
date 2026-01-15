@@ -342,7 +342,7 @@
       "properties": {
         "Id": 15,
         "Station": "Verna FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -365,7 +365,7 @@
       "properties": {
         "Id": 16,
         "Station": "Porvorim FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -388,7 +388,7 @@
       "properties": {
         "Id": 17,
         "Station": "Cuncolim FS",
-        "Station_1": "Loading...",
+        "Station_1": "#N/A",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
