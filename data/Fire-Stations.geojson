@@ -181,7 +181,7 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -204,7 +204,7 @@
       "properties": {
         "Id": 9,
         "Station": "Panaji FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -227,7 +227,7 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -296,7 +296,7 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
