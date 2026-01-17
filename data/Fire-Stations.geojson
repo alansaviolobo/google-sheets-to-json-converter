@@ -20,7 +20,7 @@
       "properties": {
         "Id": 1,
         "Station": "Bicholim FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -43,7 +43,7 @@
       "properties": {
         "Id": 2,
         "Station": "Canacona FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -66,7 +66,7 @@
       "properties": {
         "Id": 3,
         "Station": "Curchorem FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -89,7 +89,7 @@
       "properties": {
         "Id": 4,
         "Station": "FFHQ FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -112,7 +112,7 @@
       "properties": {
         "Id": 5,
         "Station": "Kundaim FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -135,7 +135,7 @@
       "properties": {
         "Id": 6,
         "Station": "Mapusa FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -158,7 +158,7 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -181,7 +181,7 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -204,7 +204,7 @@
       "properties": {
         "Id": 9,
         "Station": "Panaji FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -227,7 +227,7 @@
       "properties": {
         "Id": 10,
         "Station": "Pernem FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -250,7 +250,7 @@
       "properties": {
         "Id": 11,
         "Station": "Pilerne FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -273,7 +273,7 @@
       "properties": {
         "Id": 12,
         "Station": "Ponda FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -296,7 +296,7 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -319,7 +319,7 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -342,7 +342,7 @@
       "properties": {
         "Id": 15,
         "Station": "Verna FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -365,7 +365,7 @@
       "properties": {
         "Id": 16,
         "Station": "Porvorim FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -388,7 +388,7 @@
       "properties": {
         "Id": 17,
         "Station": "Cuncolim FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
