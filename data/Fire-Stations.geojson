@@ -342,7 +342,7 @@
       "properties": {
         "Id": 15,
         "Station": "Verna FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
