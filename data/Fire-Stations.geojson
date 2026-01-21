@@ -158,7 +158,7 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -181,7 +181,7 @@
       "properties": {
         "Id": 8,
         "Station": "Old Goa FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -296,7 +296,7 @@
       "properties": {
         "Id": 13,
         "Station": "Valpoi FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
@@ -319,7 +319,7 @@
       "properties": {
         "Id": 14,
         "Station": "Vasco FS",
-        "Station_1": "#N/A",
+        "Station_1": "Loading...",
         "Name": null,
         "Mobile": null,
         "Mobile2": null,
