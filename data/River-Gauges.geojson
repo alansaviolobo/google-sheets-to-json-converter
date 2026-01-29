@@ -20,11 +20,11 @@
       "properties": {
         "Call Sign": "AVD",
         "Display Name": "Avedem Village (Kushavati River)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 3.65,
         "Danger Level": 4.15,
         "Highest Danger Level": 5.65,
-        "Water Level": 0.74
+        "Water Level": 1.02
       }
     },
     {
@@ -134,7 +134,7 @@
       "properties": {
         "Call Sign": "KER",
         "Display Name": "Keri  Sattari (Gotolli Nalla)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 25,
         "Danger Level": 25.57,
         "Highest Danger Level": 26.57,
@@ -153,11 +153,11 @@
       "properties": {
         "Call Sign": "MUN",
         "Display Name": "Mungul Bridge  Margao (Sal River)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 2.95,
         "Danger Level": 3.25,
         "Highest Danger Level": 3.85,
-        "Water Level": 0.73
+        "Water Level": 0.28
       }
     },
     {
@@ -172,11 +172,11 @@
       "properties": {
         "Call Sign": "OPA",
         "Display Name": "OPA Barrage (Khandepar River)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 7.8,
         "Danger Level": 8.3,
         "Highest Danger Level": 9.3,
-        "Water Level": 5.05
+        "Water Level": 5.56
       }
     },
     {
@@ -210,11 +210,11 @@
       "properties": {
         "Call Sign": "PND",
         "Display Name": "PONDA (Kapileshwari Nalla)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 11.01,
         "Danger Level": 11.3,
         "Highest Danger Level": 11.6,
-        "Water Level": 14.19
+        "Water Level": 14.18
       }
     },
     {
@@ -229,7 +229,7 @@
       "properties": {
         "Call Sign": "PNG",
         "Display Name": "Poinguinim (Galjibag River)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 4.86,
         "Danger Level": 5.36,
         "Highest Danger Level": 5.36,
@@ -248,11 +248,11 @@
       "properties": {
         "Call Sign": "SQD",
         "Display Name": "Dattatreya Temple  Sanquelim (Valvonta River)",
-        "Date": "24/1/26 7:30:0",
+        "Date": "29/1/26 21:30:0",
         "Warning Level": 5,
         "Danger Level": 5.5,
         "Highest Danger Level": 7.8,
-        "Water Level": 1.54
+        "Water Level": 1.48
       }
     },
     {
