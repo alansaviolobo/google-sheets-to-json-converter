@@ -116,6 +116,7 @@ if (import.meta.url === pathToFileURL(process.argv[1]).href) {
                 "1786282296": "Schools",
                 "1929576986": "Tree Cutters",
                 "920360157": "Water Resources",
+                "641148910": "NASA FIRMS"
             };
 
             for (const key of Object.keys(dataSets)) {
