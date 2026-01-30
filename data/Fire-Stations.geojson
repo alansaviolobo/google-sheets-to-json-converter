@@ -158,12 +158,12 @@
       "properties": {
         "Id": 7,
         "Station": "Margao FS",
-        "Station_1": "Fire Station Margao",
-        "Name": "Shri. Herculano Gill Souza",
-        "Mobile": 7391047144,
-        "Mobile2": 9763717057,
-        "Landline": "2714600 2715825/101",
-        "Email": "mrg-fire.goa@gov.in",
+        "Station_1": "#N/A",
+        "Name": null,
+        "Mobile": null,
+        "Mobile2": null,
+        "Landline": null,
+        "Email": null,
         "No. of Fire Appliances": null,
         "Trained Personnel Count": null,
         "Last Updated": null
