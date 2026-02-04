@@ -7,5 +7,84 @@
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
   },
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "latitude": 14.1489,
+        "longitude": 74.99065,
+        "bright_ti4": 297.76,
+        "scan": 0.51,
+        "track": 0.5,
+        "acq_date": "2026-02-04",
+        "acq_time": "12:00:00 AM",
+        "satellite": "N21",
+        "instrument": "VIIRS",
+        "confidence": "n",
+        "version": "2.0NRT",
+        "bright_ti5": 286.68,
+        "frp": 0.45,
+        "daynight": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "latitude": 14.98723,
+        "longitude": 74.86329,
+        "bright_ti4": 311.75,
+        "scan": 0.54,
+        "track": 0.51,
+        "acq_date": "2026-02-04",
+        "acq_time": "12:00:00 AM",
+        "satellite": "N21",
+        "instrument": "VIIRS",
+        "confidence": "n",
+        "version": "2.0NRT",
+        "bright_ti5": 288.15,
+        "frp": 1.2,
+        "daynight": "N"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "latitude": 14.9877,
+        "longitude": 74.8661,
+        "bright_ti4": 311.88,
+        "scan": 0.54,
+        "track": 0.51,
+        "acq_date": "2026-02-04",
+        "acq_time": "12:00:00 AM",
+        "satellite": "N21",
+        "instrument": "VIIRS",
+        "confidence": "n",
+        "version": "2.0NRT",
+        "bright_ti5": 288.51,
+        "frp": 1.81,
+        "daynight": "N"
+      }
+    }
+  ]
 }
