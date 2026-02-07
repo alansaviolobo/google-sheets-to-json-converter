@@ -73,28 +73,6 @@
         "Status": "Active",
         "Address": "Office 10, 1st Floor, Ponda Commerce Centre, Ponda, Goa 403401"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.927622,
-          15.290971
-        ]
-      },
-      "properties": {
-        "Name": "RANJAN CHAKRABARTY",
-        "Call Sign": "VU2APU",
-        "Grid Location": "MK65XG",
-        "Contact Number": 9821065529,
-        "HF": "YES",
-        "VHF Base Station": "NO",
-        "UHF Base Station": "NO",
-        "VHF/UHF Handy": "YES",
-        "Status": "Active",
-        "Address": "H No.131/E, Nagwaddo, Betalbatim, Salcete, Goa 403713"
-      }
     }
   ]
 }
