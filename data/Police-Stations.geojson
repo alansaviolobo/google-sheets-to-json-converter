@@ -18,11 +18,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Panaji",
+        "SHO Name": "Vijaykumar S. Chodankar",
+        "Mobile": 7875756022,
+        "Contact No": "0832-2428482, Ext-311",
+        "Email": "pipanaji@goapolice.gov.in",
         "Jurisdiction Area": "Panaji",
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -228,7 +228,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -249,11 +249,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Valpoi",
+        "SHO Name": "Videsh P. Shirdokar",
+        "Mobile": 7875756034,
+        "Contact No": "0832-2374255",
+        "Email": "pivalpoi@goapolice.gov.in",
         "Jurisdiction Area": "Valpoi",
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -291,7 +291,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -396,7 +396,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -522,7 +522,7 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
+        "Station": "Loading...",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
