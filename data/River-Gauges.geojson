@@ -20,11 +20,11 @@
       "properties": {
         "Call Sign": "AVD",
         "Display Name": "Avedem Village (Kushavati River)",
-        "Date": "7/3/26 13:30:0",
+        "Date": "7/3/26 21:30:0",
         "Warning Level": 3.65,
         "Danger Level": 4.15,
         "Highest Danger Level": 5.65,
-        "Water Level": 0.89
+        "Water Level": 0.67
       }
     },
     {
@@ -172,7 +172,7 @@
       "properties": {
         "Call Sign": "OPA",
         "Display Name": "OPA Barrage (Khandepar River)",
-        "Date": "7/3/26 13:30:0",
+        "Date": "7/3/26 22:30:0",
         "Warning Level": 7.8,
         "Danger Level": 8.3,
         "Highest Danger Level": 9.3,
@@ -210,11 +210,11 @@
       "properties": {
         "Call Sign": "PND",
         "Display Name": "PONDA (Kapileshwari Nalla)",
-        "Date": "7/3/26 13:30:0",
+        "Date": "7/3/26 22:30:0",
         "Warning Level": 11.01,
         "Danger Level": 11.3,
         "Highest Danger Level": 11.6,
-        "Water Level": 15.49
+        "Water Level": 13.29
       }
     },
     {
@@ -248,11 +248,11 @@
       "properties": {
         "Call Sign": "SQD",
         "Display Name": "Dattatreya Temple  Sanquelim (Valvonta River)",
-        "Date": "7/3/26 13:30:0",
+        "Date": "7/3/26 22:30:0",
         "Warning Level": 5,
         "Danger Level": 5.5,
         "Highest Danger Level": 7.8,
-        "Water Level": 1.49
+        "Water Level": 1.44
       }
     },
     {
