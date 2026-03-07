@@ -39,11 +39,11 @@
         ]
       },
       "properties": {
-        "Station": null,
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Old Goa",
+        "SHO Name": "Satish V. Padwalkar",
+        "Mobile": 7875756024,
+        "Contact No": "0832-2285301",
+        "Email": "pioldgoa@goapolice.gov.in",
         "Jurisdiction Area": "Old Goa",
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -144,7 +144,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -228,7 +228,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
@@ -354,11 +354,11 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Cuncolim",
+        "SHO Name": "Diogo Gracias",
+        "Mobile": 7875756041,
+        "Contact No": "0832-2763234",
+        "Email": "picuncolim@goapolice.gov.in",
         "Jurisdiction Area": "Cuncolim",
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -459,11 +459,11 @@
         ]
       },
       "properties": {
-        "Station": "Vasco",
-        "SHO Name": "Vaibhav Naik",
-        "Mobile": 7875756049,
-        "Contact No": "0832-2512304",
-        "Email": "pi-vasco@goapolice.gov.in",
+        "Station": "#N/A",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": "Vasco",
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -480,11 +480,11 @@
         ]
       },
       "properties": {
-        "Station": "#N/A",
-        "SHO Name": null,
-        "Mobile": null,
-        "Contact No": null,
-        "Email": null,
+        "Station": "Verna",
+        "SHO Name": "Anand Shirodkar",
+        "Mobile": 7875756051,
+        "Contact No": "0832-2782325",
+        "Email": "pi-verna@goapolice.gov.in",
         "Jurisdiction Area": "Verna",
         "Personnel Strength": null,
         "Vehicles Available": null,
@@ -522,7 +522,7 @@
         ]
       },
       "properties": {
-        "Station": "Loading...",
+        "Station": "#N/A",
         "SHO Name": null,
         "Mobile": null,
         "Contact No": null,
