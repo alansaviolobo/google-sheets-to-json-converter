@@ -85,6 +85,32 @@
         "frp": 6.21,
         "daynight": "D"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      },
+      "properties": {
+        "latitude": 14.88548,
+        "longitude": 74.7859,
+        "bright_ti4": 306.89,
+        "scan": 0.44,
+        "track": 0.38,
+        "acq_date": "2026-03-23",
+        "acq_time": "12:00:00 AM",
+        "satellite": "N21",
+        "instrument": "VIIRS",
+        "confidence": "n",
+        "version": "2.0NRT",
+        "bright_ti5": 290.36,
+        "frp": 0.8,
+        "daynight": "N"
+      }
     }
   ]
 }
