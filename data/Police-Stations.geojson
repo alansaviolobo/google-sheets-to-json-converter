@@ -333,11 +333,11 @@
         ]
       },
       "properties": {
-        "Station": "Colva",
-        "SHO Name": "Vikram Naik",
-        "Mobile": 7875756040,
-        "Contact No": "0832-2788396",
-        "Email": "pi-colva@goapolice.gov.in",
+        "Station": "Loading...",
+        "SHO Name": null,
+        "Mobile": null,
+        "Contact No": null,
+        "Email": null,
         "Jurisdiction Area": "Colva",
         "Personnel Strength": null,
         "Vehicles Available": null,
