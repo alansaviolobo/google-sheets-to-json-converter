@@ -19,14 +19,14 @@
       },
       "properties": {
         "": "tillari",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 64,
         "Full level (m)": 113.2,
         "Max storage (Ha.m.)": 46217,
-        "Current Level (m)": 88.75,
-        "Current Storage (Ha.m.)": 15127,
-        "Discharge (cumecs)": 34.08,
-        "Percent_Full": 33,
+        "Current Level (m)": 90.5,
+        "Current Storage (Ha.m.)": 16747.4,
+        "Discharge (cumecs)": 50.85,
+        "Percent_Full": 36,
         "Name": "Tillari Dam",
         "River": null,
         "District": null,
@@ -46,7 +46,7 @@
       },
       "properties": {
         "": "selaulim",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 20.42,
         "Full level (m)": 41.15,
         "Max storage (Ha.m.)": 23436,
@@ -73,7 +73,7 @@
       },
       "properties": {
         "": "anjunem",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 61.5,
         "Full level (m)": 93.2,
         "Max storage (Ha.m.)": 4483,
@@ -100,7 +100,7 @@
       },
       "properties": {
         "": "chapoli",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 22,
         "Full level (m)": 38.75,
         "Max storage (Ha.m.)": 1122,
@@ -127,7 +127,7 @@
       },
       "properties": {
         "": "amthane",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 29,
         "Full level (m)": 50.03,
         "Max storage (Ha.m.)": 585,
@@ -154,7 +154,7 @@
       },
       "properties": {
         "": "panchawadi",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 14.7,
         "Full level (m)": 26,
         "Max storage (Ha.m.)": 436.8,
@@ -181,7 +181,7 @@
       },
       "properties": {
         "": "gaunem",
-        "Date": "*9 hours 4 min* ago",
+        "Date": "*0 sec* ago",
         "Dead level (m)": 46,
         "Full level (m)": 63.5,
         "Max storage (Ha.m.)": 177,
