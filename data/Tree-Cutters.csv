@@ -1,56 +1,10 @@
-Name,Mobile,Address,Latitude,Longitude
-Manipal Malik,9168397492,"Upper Harvalem Goa, Sanquelim Goa",15.564179,74.044632
-Savlo Ghadi,9545993978,Sarvan Bicholim Goa,15.590712,73.967128
-Pramod Gad,,"Cudnem Goa, Sanquelim Goa",15.557504,74.015873
-Janu Shinde,7588488718,"Latambarcem, Bicholim Goa",15.661547,73.947738
-Chandra Majik,7517319336,Honda Goa,15.547111,74.050794
-Tukaram Jungle,935639094,Mulgao Bicholim Goa,15.618606,73.919793
-Laxmankalu,8277053610,"Malar, Sao Mathias",15.532074,73.923154
-Suraj Talwar,8408010837,Bambolim,15.455132,73.851551
-Satyawan Golvankar,7507820413,"447, Cabesa Santa Cruz",36.974128,-122.028807
-Francis Fernandes,7249043568,"H. No. 1006 Premairo Bairro, St Cruz",15.476128,73.845671
-Nikku,9822082807,Azossim,15.463435,73.921286
-Minino Tree Cutter,9604503989,"Saleria, Goa Velha",15.440000,73.889612
-Ankush Raul,9404451511,Pernem,15.717623,73.797418
-Hanumant Kole,9823854403,,,
-Suresh B. Sawant,9657958671,Mandrem,15.659803,73.742901
-Anton Fernandes,8888122411,Morjim,15.636142,73.726671
-Lino Fernandes,8806376672,Paraste,,
-Rajaram Parsekar,9850816676,Parcem,15.664882,73.774933
-Tukaram Naik,9611503749,Virnoda,15.703458,73.824262
-Shahu B Shelke,9545006598,Chandel,24.332010,94.000725
-Prakash R Shetye,9623853679,Ozori,-1.010420,8.894184
-Bhikaji V. Gaonkar,7972556404,,,
-Babal Palyekar,9823103395,Corgao,15.709976,73.751527
-Dashrath Mhalshekar,9405850176,"Velguem Satarri, Cotorem",15.500521,74.053307
-Laxman Shaba Gaonkar,9921138255,"Velguem Satarri, Cotorem",15.500521,74.053307
-Rajaram Gaonkar,7378345876,"Shirsodem, Cotorem Sattari",15.484067,74.182144
-Abu Sanvordekar,7588483678,"Gholkarwada, Cotorem Sattari",15.479858,74.144549
-Navso Vithal Gawas,9673817302,Morlem Colony Sattari Goa,15.572929,74.044404
-Chandrakant Surlakar,9421322443,Kodal Nagargao Sattari Goa,15.542053,74.150433
-Govind Bordekar,9421306598,Derode Nagargao Sattari,15.542053,74.150433
-Naryan Zarmekar,9423037399,Hirve Thane Sattari,19.232172,72.987374
-Bhiku Bejari,9130376913,Nagvem Mauxi Sattari,15.211919,74.123158
-Parshuram Rathod,9923095061,Podshem Poriem Sattari,15.587615,74.028430
-Rameshwar Mhalshekar,9699215532,Mhalshewada Poriem Sattari,15.595893,74.059387
-Agacio Fernandes,9552437832,"R/o. Verla, Canca, Bardez Goa.",15.588179,73.784557
-Ratnakar Harmalkar,9881578474,"R/o. Arpora, Bardez Goa",15.563226,73.764653
-Antonio Pereira,8322272213,"Afframant Vaddy, Siolim, Bardez Goa",15.626645,73.766142
-Kailash Kumbhar,9764243425,"R/o. Reis Magos, Bardez Goa.",15.507591,73.809908
-Mahadev Hemavati,9850764879,"R/o. Penha De Franca, Alto Porvorim Goa.",15.516596,73.835748
-Santosh Parwar,9689538194,"R/o. Aldona, Bardez Goa.",15.594412,73.874419
-Ganesh Madkaikar,8275890543,"R/o. Salvador Do Mundo, Porvorim Goa.",15.540520,73.845215
-Chaman Saab,8308699240,"R/o. Mapusa, Bardez Goa.",15.590164,73.809958
-Basuraj,8317275938,"R/o. Fattawaddo, Nerul, Bardez Goa",15.509913,73.785455
-Ravlu Haldankar,9822138241,"H. No. 2/39, Cotlawaddo, Saligao, Bardez Goa",15.546255,73.789068
-Navnath Bamane,9158461706,"Maina, Pilerne, Bardez Goa",15.522199,73.816405
-Dagdu Bamane,7709912405,"Maina, Pilerne, Bardez Goa",15.522199,73.816405
-Dayanand Morajkar,9923481206,"R/o. Assagao, Bardez Goa",15.599483,73.769135
-Riyaaz Jangundi,9923182256,"R/o. Assagao, Bardez Goa",15.599483,73.769135
-Anand Falkar,9923369278,"r/o. Aldona, Bardez Goa",15.594412,73.874419
-Laximan Shelke,7066677066,"r/o. New Waddo, Sirsaim, Bardez Goa",15.623404,73.868675
-Vinod Fadte,9511865490,"R/o. Zila Bhat, Revora, Bardez Goa",15.651427,73.850728
-Ratnakar Kavlekar,8788613752,"R/o. Sorvemwaddo, Guirim, Bardez Goa",15.580382,73.799047
-Ramdas Parsekar,9657256028,"R/o. Sorvemwaddo, Guirim, Bardez Goa",15.580382,73.799047
-Manju Ambe,9637869668,"R/o. Moira, Bardez Goa",15.594528,73.839359
-Deepak Naik Pednekar,9607354565,"R/o. Khairat, Camurlim, Bardez Goa.",15.638048,73.784629
+<!DOCTYPE html><html lang="en"><head><script nonce="xxyjBqmAyRWJs163Vm98TA">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!="undefined"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length=="number")return{next:k(a)};throw Error(String(a)+" is not an iterable or ArrayLike");}var m=typeof Object.defineProperties=="function"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
+function n(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("Cannot find global object");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}
+q("Object.is",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});
+q("String.prototype.includes",function(a){return a?a:function(b,c){if(this==null)throw new TypeError("The 'this' value for String.prototype.includes must not be null or undefined");if(b instanceof RegExp)throw new TypeError("First argument to String.prototype.includes must not be a regular expression");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a("https://csp.withgoogle.com/csp/proto/"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open("POST",a);c.send(b)}
+function v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__("__proto__"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:"ACCESS_GET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}
+function z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__("__proto__"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:"ACCESS_SET",origin:(f=window.location.origin)!=null?f:"unknown",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:"unknown",stackTrace:(h=Error().stack)!=null?h:"unknown"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}
+var D="constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x".split(" "),E=D.concat,F=navigator.userAgent.match(/Firefox\/([0-9]+)\./),G=(!F||F.length<2?0:Number(F[1])<75)?["toSource"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];
+function C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:"SEAL",origin:(h=window.location.origin)!=null?h:"unknown",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:"HEARTBEAT"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,"__proto__",{enumerable:!1,get:v(),set:z()})}catch(a){}}
+(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!=="loading"?B(b,a):document.addEventListener("DOMContentLoaded",function(){B(b,a)})))})();}).call(this);
+</script><meta name="description" content="Web word processing, presentations and spreadsheets"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0"><link rel="shortcut icon" href="//docs.google.com/favicon.ico"><title>Page Not Found</title><meta name="referrer" content="origin"><link href="//fonts.googleapis.com/css?family=Product+Sans" rel="stylesheet" type="text/css" nonce="WtKb_2LmOdH8M0MlzOE_qg"><style nonce="WtKb_2LmOdH8M0MlzOE_qg">#drive-logo{margin:18px 0;position:absolute;white-space:nowrap}.docs-drivelogo-img{background-image:url(//ssl.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_116x41dp.png);-webkit-background-size:116px 41px;background-size:116px 41px;display:inline-block;height:41px;vertical-align:bottom;width:116px}.docs-drivelogo-text{color:var(--gm3-sys-color-on-surface,#1f1f1f);display:inline-block;opacity:.54;text-decoration:none;font-family:Product Sans,Arial,Helvetica,sans-serif;font-size:32px;text-rendering:optimizeLegibility;position:relative;top:-6px;left:-7px;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@media (-webkit-min-device-pixel-ratio:1.5),(min-resolution:144dpi){.docs-drivelogo-img{background-image:url(//ssl.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_116x41dp.png)}}.goog-inline-block{position:relative;display:-moz-inline-box;display:inline-block}* html .goog-inline-block{display:inline}:first-child+html .goog-inline-block{display:inline}sentinel{}</style><style type="text/css" nonce="WtKb_2LmOdH8M0MlzOE_qg">body {background-color: #fff; font-family: Arial,sans-serif; font-size: 13px; margin: 0; padding: 0;}a, a:link, a:visited {color: #112ABB;}</style><style type="text/css" nonce="WtKb_2LmOdH8M0MlzOE_qg">.errorMessage {font-size: 12pt; font-weight: bold; line-height: 150%;}</style></head><body><div id="outerContainer"><div id="innerContainer"><div style="position: absolute; top: -80px;"><div style="margin: 18px 0; position: absolute; white-space: nowrap;"><a href="//support.google.com/docs/"><img height="35px" src="//ssl.gstatic.com/docs/common/product/spreadsheets_lockup2.png" alt="Google logo"/></a></div></div><div align="center"><p class="errorMessage" style="padding-top: 50px">Sorry, unable to open the file at this time.</p><p> Please check the address and try again. </p><div style="background: #F0F6FF; border: 1px solid black; margin-top: 35px; padding: 10px 125px; width: 300px;"><p><strong>Get stuff done with Google Drive</strong></p><p>Apps in Google Drive make it easy to create, store and share online documents, spreadsheets, presentations and more.</p><p>Learn more at <a href="https://drive.google.com/start/apps">drive.google.com/start/apps</a>.</p></div></div></div></div></body><style nonce="WtKb_2LmOdH8M0MlzOE_qg">html {height: 100%; overflow: auto;}body {height: 100%; overflow: auto;}#outerContainer {margin: auto; max-width: 750px;}#innerContainer {margin-bottom: 20px; margin-left: 40px; margin-right: 40px; margin-top: 80px; position: relative;}</style></html>
