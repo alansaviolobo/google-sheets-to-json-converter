@@ -1,41 +1,41 @@
-[2026-10-11T05:11:44.259Z] Debug logging initialized
-[2026-10-11T05:11:56.299Z] Finished generating Dam Levels
-[2026-10-11T05:12:06.689Z] Finished generating HAM Radio Operators
-[2026-10-11T05:12:17.021Z] Finished generating MHA Units
-[2026-10-11T05:12:27.455Z] Finished generating Heavy Machinery
-[2026-10-11T05:12:37.819Z] Finished generating Civil Supplies Godowns
-[2026-10-11T05:12:44.505Z] Finished generating Apada Mitras
-[2026-10-11T05:12:44.853Z] Finished generating Panchayats
-[2026-10-11T05:12:48.723Z] Finished generating Hospitals
-[2026-10-11T05:12:49.317Z] Finished generating NASA FIRMS
-[2026-10-11T05:12:49.930Z] Finished generating Fire Stations
-[2026-10-11T05:12:50.500Z] Finished generating Police Stations
-[2026-10-11T05:12:51.137Z] Finished generating Water Resources
-[2026-10-11T05:12:51.510Z] Finished generating Capacity Building
-[2026-10-11T05:13:02.646Z] Finished generating Cyclone Shelters
-[2026-10-11T05:13:03.054Z] Finished generating River Gauges
-[2026-10-11T05:13:03.460Z] Finished generating Mutual Aid Agencies
-[2026-10-11T05:13:03.954Z] Finished generating Schools
-[2026-10-11T05:13:14.455Z] Finished generating Tree Cutters
-[2026-10-11T05:13:14.888Z] Finished generating Ambulances
-[2026-10-11T05:13:14.888Z] File Caching finished
-[2026-10-11T05:13:14.888Z] Finished checking Dam Levels
-[2026-10-11T05:13:14.888Z] Finished checking HAM Radio Operators
-[2026-10-11T05:13:14.889Z] Finished checking MHA Units
-[2026-10-11T05:13:14.889Z] Finished checking Heavy Machinery
-[2026-10-11T05:13:14.889Z] Finished checking Civil Supplies Godowns
-[2026-10-11T05:13:14.889Z] Finished checking Apada Mitras
-[2026-10-11T05:13:14.889Z] Finished checking Panchayats
-[2026-10-11T05:13:14.889Z] Finished checking Hospitals
-[2026-10-11T05:13:14.889Z] Finished checking NASA FIRMS
-[2026-10-11T05:13:14.889Z] Finished checking Fire Stations
-[2026-10-11T05:13:14.890Z] Finished checking Police Stations
-[2026-10-11T05:13:14.890Z] Finished checking Water Resources
-[2026-10-11T05:13:14.890Z] Finished checking Capacity Building
-[2026-10-11T05:13:14.890Z] Finished checking Cyclone Shelters
-[2026-10-11T05:13:14.890Z] Finished checking River Gauges
-[2026-10-11T05:13:14.890Z] Finished checking Mutual Aid Agencies
-[2026-10-11T05:13:14.890Z] Finished checking Schools
-[2026-10-11T05:13:14.890Z] Finished checking Tree Cutters
-[2026-10-11T05:13:14.890Z] Finished checking Ambulances
-[2026-10-11T05:13:14.890Z] File Checking finished
+[2026-10-11T12:28:55.568Z] Debug logging initialized
+[2026-10-11T12:29:07.100Z] Finished generating Dam Levels
+[2026-10-11T12:29:18.638Z] Finished generating HAM Radio Operators
+[2026-10-11T12:29:30.199Z] Finished generating MHA Units
+[2026-10-11T12:29:40.785Z] Finished generating Heavy Machinery
+[2026-10-11T12:29:51.207Z] Finished generating Civil Supplies Godowns
+[2026-10-11T12:30:02.732Z] Finished generating Apada Mitras
+[2026-10-11T12:30:13.167Z] Finished generating Panchayats
+[2026-10-11T12:30:23.603Z] Finished generating Hospitals
+[2026-10-11T12:30:35.033Z] Finished generating NASA FIRMS
+[2026-10-11T12:30:45.499Z] Finished generating Fire Stations
+[2026-10-11T12:30:55.922Z] Finished generating Police Stations
+[2026-10-11T12:31:06.352Z] Finished generating Water Resources
+[2026-10-11T12:31:16.683Z] Finished generating Capacity Building
+[2026-10-11T12:31:27.016Z] Finished generating Cyclone Shelters
+[2026-10-11T12:31:37.333Z] Finished generating River Gauges
+[2026-10-11T12:31:47.682Z] Finished generating Mutual Aid Agencies
+[2026-10-11T12:31:58.131Z] Finished generating Schools
+[2026-10-11T12:32:08.420Z] Finished generating Tree Cutters
+[2026-10-11T12:32:18.759Z] Finished generating Ambulances
+[2026-10-11T12:32:18.760Z] File Caching finished
+[2026-10-11T12:32:18.760Z] Finished checking Dam Levels
+[2026-10-11T12:32:18.760Z] Finished checking HAM Radio Operators
+[2026-10-11T12:32:18.760Z] Finished checking MHA Units
+[2026-10-11T12:32:18.760Z] Finished checking Heavy Machinery
+[2026-10-11T12:32:18.760Z] Finished checking Civil Supplies Godowns
+[2026-10-11T12:32:18.761Z] Finished checking Apada Mitras
+[2026-10-11T12:32:18.761Z] Finished checking Panchayats
+[2026-10-11T12:32:18.761Z] Finished checking Hospitals
+[2026-10-11T12:32:18.761Z] Finished checking NASA FIRMS
+[2026-10-11T12:32:18.761Z] Finished checking Fire Stations
+[2026-10-11T12:32:18.761Z] Loading... found in /home/runner/work/google-sheets-to-json-converter/google-sheets-to-json-converter/main-branch/data/Police-Stations.csv
+[2026-10-11T12:32:18.761Z] Finished checking Water Resources
+[2026-10-11T12:32:18.761Z] Finished checking Capacity Building
+[2026-10-11T12:32:18.761Z] Finished checking Cyclone Shelters
+[2026-10-11T12:32:18.761Z] Finished checking River Gauges
+[2026-10-11T12:32:18.761Z] Finished checking Mutual Aid Agencies
+[2026-10-11T12:32:18.762Z] Finished checking Schools
+[2026-10-11T12:32:18.762Z] Finished checking Tree Cutters
+[2026-10-11T12:32:18.762Z] Finished checking Ambulances
+[2026-10-11T12:32:18.762Z] File Checking finished
